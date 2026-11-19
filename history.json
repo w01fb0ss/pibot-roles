@@ -1,0 +1,6650 @@
+{
+  "format": 1,
+  "roles": {
+    "backend-dev": {
+      "1": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "send_out": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "e01d2a1bbbe1249b",
+            "en": "bc6492f643237ccb"
+          },
+          "skills": {
+            "bugfix-flow": {
+              "zh": "72db49c06298a088",
+              "en": "8930fb3c3c237dfb"
+            },
+            "api-design-review": {
+              "zh": "351c7c15b66b0ce3",
+              "en": "7c6ee744bfe02075"
+            },
+            "commit-message": {
+              "zh": "dd95539f76dc140b",
+              "en": "029bf14963d61f29"
+            }
+          }
+        }
+      ],
+      "2": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "send_out": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "17ab216e70a9f80c",
+            "en": "4a8f22ebb10c91e4"
+          },
+          "skills": {
+            "bugfix-flow": {
+              "zh": "8a26c4b46ac21754",
+              "en": "787b04c389f91028"
+            },
+            "api-design-review": {
+              "zh": "83d2d9a96aebe6b6",
+              "en": "edd70ea1a7990151"
+            },
+            "commit-message": {
+              "zh": "9cd5fab355d1310e",
+              "en": "1112f23eb00bfe6a"
+            },
+            "development-workflow": {
+              "zh": "99d3aa50eb6ba86e",
+              "en": "b824b7567d2a3a04"
+            }
+          }
+        }
+      ],
+      "3": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "send_out": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "d58771c2792869d1",
+            "en": "e00c7b7e6aa39f05"
+          },
+          "skills": {
+            "bugfix-flow": {
+              "zh": "8a26c4b46ac21754",
+              "en": "787b04c389f91028"
+            },
+            "api-design-review": {
+              "zh": "83d2d9a96aebe6b6",
+              "en": "edd70ea1a7990151"
+            },
+            "commit-message": {
+              "zh": "9cd5fab355d1310e",
+              "en": "1112f23eb00bfe6a"
+            },
+            "development-workflow": {
+              "zh": "51fe7911f9420e16",
+              "en": "843898251e54332a"
+            }
+          }
+        }
+      ],
+      "4": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "send_out": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "d9f728c09f459995",
+            "en": "af9a20377d908d40"
+          },
+          "skills": {
+            "bugfix-flow": {
+              "zh": "8a26c4b46ac21754",
+              "en": "787b04c389f91028"
+            },
+            "api-design-review": {
+              "zh": "83d2d9a96aebe6b6",
+              "en": "edd70ea1a7990151"
+            },
+            "development-workflow": {
+              "zh": "06ba652ef75f98d5",
+              "en": "57350209dad17456"
+            }
+          }
+        }
+      ],
+      "5": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "send_out": "never"
+          },
+          "norms": {
+            "zh": "d9f728c09f459995",
+            "en": "af9a20377d908d40"
+          },
+          "skills": {
+            "bugfix-flow": {
+              "zh": "8a26c4b46ac21754",
+              "en": "787b04c389f91028"
+            },
+            "api-design-review": {
+              "zh": "83d2d9a96aebe6b6",
+              "en": "edd70ea1a7990151"
+            },
+            "development-workflow": {
+              "zh": "06ba652ef75f98d5",
+              "en": "57350209dad17456"
+            }
+          }
+        }
+      ],
+      "6": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "send_out": "never"
+          },
+          "norms": {
+            "zh": "d9f728c09f459995",
+            "en": "af9a20377d908d40"
+          },
+          "skills": {
+            "bugfix-flow": {
+              "zh": "8a26c4b46ac21754",
+              "en": "787b04c389f91028"
+            },
+            "api-design-review": {
+              "zh": "83d2d9a96aebe6b6",
+              "en": "edd70ea1a7990151"
+            },
+            "development-workflow": {
+              "zh": "06ba652ef75f98d5",
+              "en": "57350209dad17456"
+            },
+            "change-report": {
+              "zh": "3dc181a82ccd8f61",
+              "en": "6a605c912294e7f1"
+            }
+          }
+        }
+      ],
+      "7": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "send_out": "never"
+          },
+          "norms": {
+            "zh": "d9f728c09f459995",
+            "en": "af9a20377d908d40"
+          },
+          "skills": {
+            "bugfix-flow": {
+              "zh": "8a26c4b46ac21754",
+              "en": "787b04c389f91028"
+            },
+            "api-design-review": {
+              "zh": "83d2d9a96aebe6b6",
+              "en": "edd70ea1a7990151"
+            },
+            "development-workflow": {
+              "zh": "f6e1ac5795a4bcf9",
+              "en": "8ceb464657d60695"
+            },
+            "change-report": {
+              "zh": "3dc181a82ccd8f61",
+              "en": "6a605c912294e7f1"
+            }
+          }
+        }
+      ],
+      "8": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "always",
+            "send_out": "never"
+          },
+          "norms": {
+            "zh": "d9f728c09f459995",
+            "en": "af9a20377d908d40"
+          },
+          "skills": {
+            "bugfix-flow": {
+              "zh": "8a26c4b46ac21754",
+              "en": "787b04c389f91028"
+            },
+            "api-design-review": {
+              "zh": "83d2d9a96aebe6b6",
+              "en": "edd70ea1a7990151"
+            },
+            "development-workflow": {
+              "zh": "f6e1ac5795a4bcf9",
+              "en": "8ceb464657d60695"
+            },
+            "change-report": {
+              "zh": "3dc181a82ccd8f61",
+              "en": "6a605c912294e7f1"
+            }
+          }
+        }
+      ]
+    },
+    "code-reviewer": {
+      "1": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "write_file": "never"
+          },
+          "norms": {
+            "zh": "ad7f4bfe6ddcde77",
+            "en": "8a653ca6fd8580e4"
+          },
+          "skills": {
+            "code-review-checklist": {
+              "zh": "385f1d761cf5c4ad",
+              "en": "8929cd3ffc237806"
+            },
+            "security-review": {
+              "zh": "648532345f66bb0a",
+              "en": "e01c291c1c76f010"
+            }
+          }
+        }
+      ],
+      "2": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "write_file": "never"
+          },
+          "norms": {
+            "zh": "f1c0d729d3cf2f7e",
+            "en": "0cffdd5184aeddc1"
+          },
+          "skills": {
+            "code-review-checklist": {
+              "zh": "cf2042a10a5891a4",
+              "en": "12b15f2a739bc106"
+            },
+            "security-review": {
+              "zh": "5c9c436bbbae1f8e",
+              "en": "a12fe7be01b2de71"
+            }
+          }
+        }
+      ],
+      "3": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "write_file": "never"
+          },
+          "norms": {
+            "zh": "7d392db0c95bc524",
+            "en": "12394903f529230d"
+          },
+          "skills": {
+            "code-review-checklist": {
+              "zh": "cf2042a10a5891a4",
+              "en": "12b15f2a739bc106"
+            },
+            "security-review": {
+              "zh": "5c9c436bbbae1f8e",
+              "en": "a12fe7be01b2de71"
+            }
+          }
+        }
+      ],
+      "4": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "write_file": "never"
+          },
+          "norms": {
+            "zh": "f71fb5e3dc5b52cd",
+            "en": "bce7c419c2c1143a"
+          },
+          "skills": {
+            "code-review-checklist": {
+              "zh": "cf2042a10a5891a4",
+              "en": "12b15f2a739bc106"
+            },
+            "security-review": {
+              "zh": "5c9c436bbbae1f8e",
+              "en": "a12fe7be01b2de71"
+            }
+          }
+        }
+      ],
+      "5": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "write_file": "never"
+          },
+          "norms": {
+            "zh": "f71fb5e3dc5b52cd",
+            "en": "bce7c419c2c1143a"
+          },
+          "skills": {
+            "code-review-checklist": {
+              "zh": "cf2042a10a5891a4",
+              "en": "12b15f2a739bc106"
+            },
+            "security-review": {
+              "zh": "5c9c436bbbae1f8e",
+              "en": "a12fe7be01b2de71"
+            },
+            "review-report": {
+              "zh": "13faaf50d5cc7e9e",
+              "en": "7d8b5e48a59646ec"
+            }
+          }
+        },
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "ce85cbd86770e66c",
+            "en": "5202667d64e6f3ac"
+          },
+          "skills": {
+            "code-review-checklist": {
+              "zh": "cf2042a10a5891a4",
+              "en": "12b15f2a739bc106"
+            },
+            "security-review": {
+              "zh": "5c9c436bbbae1f8e",
+              "en": "a12fe7be01b2de71"
+            }
+          }
+        }
+      ],
+      "6": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "write_file": "never"
+          },
+          "norms": {
+            "zh": "f71fb5e3dc5b52cd",
+            "en": "bce7c419c2c1143a"
+          },
+          "skills": {
+            "code-review-checklist": {
+              "zh": "397517470c69cfa2",
+              "en": "64417b381d481814"
+            },
+            "security-review": {
+              "zh": "5c9c436bbbae1f8e",
+              "en": "a12fe7be01b2de71"
+            },
+            "review-report": {
+              "zh": "13faaf50d5cc7e9e",
+              "en": "7d8b5e48a59646ec"
+            }
+          }
+        }
+      ],
+      "7": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "ce85cbd86770e66c",
+            "en": "5202667d64e6f3ac"
+          },
+          "skills": {
+            "code-review-checklist": {
+              "zh": "397517470c69cfa2",
+              "en": "64417b381d481814"
+            },
+            "security-review": {
+              "zh": "5c9c436bbbae1f8e",
+              "en": "a12fe7be01b2de71"
+            },
+            "review-report": {
+              "zh": "13faaf50d5cc7e9e",
+              "en": "7d8b5e48a59646ec"
+            }
+          }
+        }
+      ],
+      "8": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "always",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "ce85cbd86770e66c",
+            "en": "5202667d64e6f3ac"
+          },
+          "skills": {
+            "code-review-checklist": {
+              "zh": "397517470c69cfa2",
+              "en": "64417b381d481814"
+            },
+            "security-review": {
+              "zh": "5c9c436bbbae1f8e",
+              "en": "a12fe7be01b2de71"
+            },
+            "review-report": {
+              "zh": "13faaf50d5cc7e9e",
+              "en": "7d8b5e48a59646ec"
+            }
+          }
+        }
+      ],
+      "9": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "always",
+            "write_file": "never"
+          },
+          "norms": {
+            "zh": "ce85cbd86770e66c",
+            "en": "5202667d64e6f3ac"
+          },
+          "skills": {
+            "code-review-checklist": {
+              "zh": "397517470c69cfa2",
+              "en": "64417b381d481814"
+            },
+            "security-review": {
+              "zh": "5c9c436bbbae1f8e",
+              "en": "a12fe7be01b2de71"
+            },
+            "review-report": {
+              "zh": "13faaf50d5cc7e9e",
+              "en": "7d8b5e48a59646ec"
+            }
+          }
+        }
+      ]
+    },
+    "copywriter": {
+      "1": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "0c3847ca1e3293e4",
+            "en": "a5ed785792d8f017"
+          },
+          "skills": {
+            "copy-framework": {
+              "zh": "67ffa6e14d4853c1",
+              "en": "d9822dcbbcf5e096"
+            },
+            "polish-edit": {
+              "zh": "c7ee452f16efa9dd",
+              "en": "8ef443790e292975"
+            }
+          }
+        }
+      ],
+      "2": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "961bd94a3e65d574",
+            "en": "881f5c8ea5211130"
+          },
+          "skills": {
+            "copy-framework": {
+              "zh": "8a00c438153ce5f3",
+              "en": "fc6ac80adcd493e4"
+            },
+            "polish-edit": {
+              "zh": "912c3fe6340043cf",
+              "en": "60d86d84997819e6"
+            }
+          }
+        }
+      ],
+      "3": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "bab41c765539001a",
+            "en": "5ca1e562c51050da"
+          },
+          "skills": {
+            "copy-framework": {
+              "zh": "8a00c438153ce5f3",
+              "en": "fc6ac80adcd493e4"
+            },
+            "polish-edit": {
+              "zh": "912c3fe6340043cf",
+              "en": "60d86d84997819e6"
+            }
+          }
+        }
+      ],
+      "4": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "880734e00d4dce33",
+            "en": "ddd0b876da25ca3f"
+          },
+          "skills": {
+            "copy-framework": {
+              "zh": "8a00c438153ce5f3",
+              "en": "fc6ac80adcd493e4"
+            },
+            "polish-edit": {
+              "zh": "912c3fe6340043cf",
+              "en": "60d86d84997819e6"
+            }
+          }
+        }
+      ]
+    },
+    "data-analyst": {
+      "1": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "445bf12c65cbdec5",
+            "en": "1a0f0fc7aba488c1"
+          },
+          "skills": {
+            "csv-profile": {
+              "zh": "8f5e80291987fd5c",
+              "en": "c72d047eb6a28296"
+            },
+            "analysis-report": {
+              "zh": "686d1148fd9f175c",
+              "en": "9cd83a44b630e984"
+            },
+            "chart-guidelines": {
+              "zh": "2536653b7321fe9e",
+              "en": "fa4d2b103ff53117"
+            }
+          }
+        }
+      ],
+      "2": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "78e92dfe3310536d",
+            "en": "6fc82d421a75eeef"
+          },
+          "skills": {
+            "csv-profile": {
+              "zh": "9a035feb99fa0d29",
+              "en": "2d7df5060dca67aa"
+            },
+            "analysis-report": {
+              "zh": "b6093380766faa33",
+              "en": "1e35217537eff2f5"
+            },
+            "chart-guidelines": {
+              "zh": "7ed2fb16282a652a",
+              "en": "3ce9900215a85566"
+            }
+          }
+        }
+      ],
+      "3": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "c92c49a9199187a9",
+            "en": "8db8ae90c5b27438"
+          },
+          "skills": {
+            "csv-profile": {
+              "zh": "9a035feb99fa0d29",
+              "en": "2d7df5060dca67aa"
+            },
+            "analysis-report": {
+              "zh": "b6093380766faa33",
+              "en": "1e35217537eff2f5"
+            },
+            "chart-guidelines": {
+              "zh": "7ed2fb16282a652a",
+              "en": "3ce9900215a85566"
+            }
+          }
+        }
+      ],
+      "4": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "4b557bea85c5f401",
+            "en": "ac47a8f2b7671f0d"
+          },
+          "skills": {
+            "csv-profile": {
+              "zh": "9a035feb99fa0d29",
+              "en": "2d7df5060dca67aa"
+            },
+            "analysis-report": {
+              "zh": "b6093380766faa33",
+              "en": "1e35217537eff2f5"
+            },
+            "chart-guidelines": {
+              "zh": "7ed2fb16282a652a",
+              "en": "3ce9900215a85566"
+            }
+          }
+        }
+      ],
+      "5": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "4b557bea85c5f401",
+            "en": "ac47a8f2b7671f0d"
+          },
+          "skills": {
+            "csv-profile": {
+              "zh": "9a035feb99fa0d29",
+              "en": "2d7df5060dca67aa"
+            },
+            "analysis-report": {
+              "zh": "b6093380766faa33",
+              "en": "1e35217537eff2f5"
+            },
+            "chart-guidelines": {
+              "zh": "7ed2fb16282a652a",
+              "en": "3ce9900215a85566"
+            },
+            "brief-data": {
+              "zh": "492d9a4f57c9c9bb",
+              "en": "d249302fd756115a"
+            }
+          }
+        }
+      ],
+      "6": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "9acf48b7aa9df2b7",
+            "en": "8d83fcd100880948"
+          },
+          "skills": {
+            "csv-profile": {
+              "zh": "9a035feb99fa0d29",
+              "en": "2d7df5060dca67aa"
+            },
+            "analysis-report": {
+              "zh": "b6093380766faa33",
+              "en": "1e35217537eff2f5"
+            },
+            "chart-guidelines": {
+              "zh": "7ed2fb16282a652a",
+              "en": "3ce9900215a85566"
+            },
+            "brief-data": {
+              "zh": "492d9a4f57c9c9bb",
+              "en": "d249302fd756115a"
+            }
+          }
+        }
+      ],
+      "7": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "9acf48b7aa9df2b7",
+            "en": "8d83fcd100880948"
+          },
+          "skills": {
+            "csv-profile": {
+              "zh": "9a035feb99fa0d29",
+              "en": "2d7df5060dca67aa"
+            },
+            "analysis-report": {
+              "zh": "2762972fc9d0df68",
+              "en": "f77a0f289e55ddae"
+            },
+            "chart-guidelines": {
+              "zh": "7ed2fb16282a652a",
+              "en": "3ce9900215a85566"
+            },
+            "brief-data": {
+              "zh": "492d9a4f57c9c9bb",
+              "en": "d249302fd756115a"
+            }
+          }
+        }
+      ],
+      "8": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "9acf48b7aa9df2b7",
+            "en": "8d83fcd100880948"
+          },
+          "skills": {
+            "csv-profile": {
+              "zh": "9a035feb99fa0d29",
+              "en": "2d7df5060dca67aa"
+            },
+            "analysis-report": {
+              "zh": "2762972fc9d0df68",
+              "en": "f77a0f289e55ddae"
+            },
+            "chart-guidelines": {
+              "zh": "7ed2fb16282a652a",
+              "en": "3ce9900215a85566"
+            },
+            "brief-data": {
+              "zh": "598e00572b3abf53",
+              "en": "d3a7ae8296333851"
+            }
+          }
+        }
+      ],
+      "9": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "9acf48b7aa9df2b7",
+            "en": "8d83fcd100880948"
+          },
+          "skills": {
+            "csv-profile": {
+              "zh": "9a035feb99fa0d29",
+              "en": "2d7df5060dca67aa"
+            },
+            "chart-guidelines": {
+              "zh": "7ed2fb16282a652a",
+              "en": "3ce9900215a85566"
+            }
+          }
+        }
+      ],
+      "10": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "9acf48b7aa9df2b7",
+            "en": "8d83fcd100880948"
+          },
+          "skills": {
+            "csv-profile": {
+              "zh": "9a035feb99fa0d29",
+              "en": "2d7df5060dca67aa"
+            },
+            "chart-guidelines": {
+              "zh": "7ed2fb16282a652a",
+              "en": "3ce9900215a85566"
+            },
+            "analysis-report": {
+              "zh": "2762972fc9d0df68",
+              "en": "f77a0f289e55ddae"
+            },
+            "brief-data": {
+              "zh": "598e00572b3abf53",
+              "en": "d3a7ae8296333851"
+            }
+          }
+        }
+      ],
+      "11": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "9acf48b7aa9df2b7",
+            "en": "8d83fcd100880948"
+          },
+          "skills": {
+            "csv-profile": {
+              "zh": "9a035feb99fa0d29",
+              "en": "2d7df5060dca67aa"
+            },
+            "chart-guidelines": {
+              "zh": "7ed2fb16282a652a",
+              "en": "3ce9900215a85566"
+            },
+            "analysis-report": {
+              "zh": "e372dc58db821ff2",
+              "en": "19a50c92e7a8c251"
+            },
+            "brief-data": {
+              "zh": "58bb104bd7e4a866",
+              "en": "e0157d565f6984ad"
+            }
+          }
+        }
+      ],
+      "12": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "9acf48b7aa9df2b7",
+            "en": "8d83fcd100880948"
+          },
+          "skills": {
+            "csv-profile": {
+              "zh": "9a035feb99fa0d29",
+              "en": "2d7df5060dca67aa"
+            },
+            "chart-guidelines": {
+              "zh": "7ed2fb16282a652a",
+              "en": "3ce9900215a85566"
+            },
+            "analysis-report": {
+              "zh": "1a47d3a11af8e9f1",
+              "en": "1dab2749b729eb01"
+            },
+            "brief-data": {
+              "zh": "58bb104bd7e4a866",
+              "en": "e0157d565f6984ad"
+            }
+          }
+        }
+      ],
+      "13": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "0e6e2685974c4980",
+            "en": "03de2542041070ad"
+          },
+          "skills": {
+            "csv-profile": {
+              "zh": "9a035feb99fa0d29",
+              "en": "2d7df5060dca67aa"
+            },
+            "chart-guidelines": {
+              "zh": "7ed2fb16282a652a",
+              "en": "3ce9900215a85566"
+            },
+            "analysis-report": {
+              "zh": "1a47d3a11af8e9f1",
+              "en": "1dab2749b729eb01"
+            },
+            "brief-data": {
+              "zh": "58bb104bd7e4a866",
+              "en": "e0157d565f6984ad"
+            }
+          }
+        }
+      ],
+      "14": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "5a04eb0b7d606aa9",
+            "en": "b0a2f71160266e37"
+          },
+          "skills": {
+            "csv-profile": {
+              "zh": "9a035feb99fa0d29",
+              "en": "2d7df5060dca67aa"
+            },
+            "chart-guidelines": {
+              "zh": "7ed2fb16282a652a",
+              "en": "3ce9900215a85566"
+            },
+            "analysis-report": {
+              "zh": "1a47d3a11af8e9f1",
+              "en": "1dab2749b729eb01"
+            },
+            "brief-data": {
+              "zh": "58bb104bd7e4a866",
+              "en": "e0157d565f6984ad"
+            }
+          }
+        }
+      ],
+      "15": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "5a04eb0b7d606aa9",
+            "en": "b0a2f71160266e37"
+          },
+          "skills": {
+            "csv-profile": {
+              "zh": "75d40694e946c476",
+              "en": "c010613621ebd8e7"
+            },
+            "chart-guidelines": {
+              "zh": "7ed2fb16282a652a",
+              "en": "3ce9900215a85566"
+            },
+            "analysis-report": {
+              "zh": "ccfcdc3d721e2c15",
+              "en": "f3041444d91bf33d"
+            },
+            "brief-data": {
+              "zh": "58bb104bd7e4a866",
+              "en": "e0157d565f6984ad"
+            }
+          }
+        }
+      ],
+      "16": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "c22d4e8b22bcf627",
+            "en": "ba58d8dedcb9258c"
+          },
+          "skills": {
+            "csv-profile": {
+              "zh": "75d40694e946c476",
+              "en": "c010613621ebd8e7"
+            },
+            "chart-guidelines": {
+              "zh": "4fe33bbcfac54576",
+              "en": "abaef065345ee749"
+            },
+            "analysis-report": {
+              "zh": "ccfcdc3d721e2c15",
+              "en": "f3041444d91bf33d"
+            },
+            "brief-data": {
+              "zh": "58bb104bd7e4a866",
+              "en": "e0157d565f6984ad"
+            }
+          }
+        }
+      ],
+      "17": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "c22d4e8b22bcf627",
+            "en": "ba58d8dedcb9258c"
+          },
+          "skills": {
+            "csv-profile": {
+              "zh": "75d40694e946c476",
+              "en": "c010613621ebd8e7"
+            },
+            "chart-guidelines": {
+              "zh": "6134a9cb24ae17ac",
+              "en": "b11174938d2eaa70"
+            },
+            "analysis-report": {
+              "zh": "ccfcdc3d721e2c15",
+              "en": "f3041444d91bf33d"
+            },
+            "brief-data": {
+              "zh": "58bb104bd7e4a866",
+              "en": "e0157d565f6984ad"
+            }
+          }
+        }
+      ],
+      "18": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "always"
+          },
+          "norms": {
+            "zh": "c22d4e8b22bcf627",
+            "en": "ba58d8dedcb9258c"
+          },
+          "skills": {
+            "csv-profile": {
+              "zh": "75d40694e946c476",
+              "en": "c010613621ebd8e7"
+            },
+            "chart-guidelines": {
+              "zh": "6134a9cb24ae17ac",
+              "en": "b11174938d2eaa70"
+            },
+            "analysis-report": {
+              "zh": "ccfcdc3d721e2c15",
+              "en": "f3041444d91bf33d"
+            },
+            "brief-data": {
+              "zh": "58bb104bd7e4a866",
+              "en": "e0157d565f6984ad"
+            }
+          }
+        }
+      ],
+      "20": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "always"
+          },
+          "norms": {
+            "zh": "163a03146d2d1fa4",
+            "en": "2fb8ce3843ead2d8"
+          },
+          "skills": {
+            "csv-profile": {
+              "zh": "75d40694e946c476",
+              "en": "c010613621ebd8e7"
+            },
+            "chart-guidelines": {
+              "zh": "2027a8efd5661211",
+              "en": "aa1b6b1ae3e121b9"
+            },
+            "analysis-report": {
+              "zh": "ccfcdc3d721e2c15",
+              "en": "f3041444d91bf33d"
+            },
+            "brief-data": {
+              "zh": "58bb104bd7e4a866",
+              "en": "e0157d565f6984ad"
+            }
+          }
+        }
+      ],
+      "21": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "always"
+          },
+          "norms": {
+            "zh": "23c70b9a8ded928f",
+            "en": "c09c71cdbecbf03c"
+          },
+          "skills": {
+            "csv-profile": {
+              "zh": "75d40694e946c476",
+              "en": "c010613621ebd8e7"
+            },
+            "chart-guidelines": {
+              "zh": "2027a8efd5661211",
+              "en": "aa1b6b1ae3e121b9"
+            },
+            "analysis-report": {
+              "zh": "ccfcdc3d721e2c15",
+              "en": "f3041444d91bf33d"
+            },
+            "brief-data": {
+              "zh": "58bb104bd7e4a866",
+              "en": "e0157d565f6984ad"
+            }
+          }
+        }
+      ]
+    },
+    "devops": {
+      "1": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "0b55da36d563039c",
+            "en": "526d9838556cb388"
+          },
+          "skills": {
+            "deploy-checklist": {
+              "zh": "de752350a4d31c67",
+              "en": "690352a1ba3754b4"
+            },
+            "incident-postmortem": {
+              "zh": "fca4f1f84c3e8054",
+              "en": "1102306221e57a09"
+            },
+            "commit-message": {
+              "zh": "dd95539f76dc140b",
+              "en": "029bf14963d61f29"
+            }
+          }
+        }
+      ],
+      "2": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "5bd7647c8111d2fc",
+            "en": "da8c2f33a1546ab5"
+          },
+          "skills": {
+            "deploy-checklist": {
+              "zh": "9e74f8dfe7a98f68",
+              "en": "29e226d748b13116"
+            },
+            "incident-postmortem": {
+              "zh": "d788bc96d2894307",
+              "en": "78a1173237fca67e"
+            },
+            "commit-message": {
+              "zh": "9cd5fab355d1310e",
+              "en": "1112f23eb00bfe6a"
+            }
+          }
+        }
+      ],
+      "3": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "e0ee6e004a6e756e",
+            "en": "5f4451fb005c1370"
+          },
+          "skills": {
+            "deploy-checklist": {
+              "zh": "9e74f8dfe7a98f68",
+              "en": "29e226d748b13116"
+            },
+            "incident-postmortem": {
+              "zh": "d788bc96d2894307",
+              "en": "78a1173237fca67e"
+            },
+            "commit-message": {
+              "zh": "9cd5fab355d1310e",
+              "en": "1112f23eb00bfe6a"
+            }
+          }
+        }
+      ],
+      "4": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "444d4002d3d7815e",
+            "en": "db46d7a0d4153f15"
+          },
+          "skills": {
+            "deploy-checklist": {
+              "zh": "9e74f8dfe7a98f68",
+              "en": "29e226d748b13116"
+            },
+            "incident-postmortem": {
+              "zh": "d788bc96d2894307",
+              "en": "78a1173237fca67e"
+            },
+            "commit-message": {
+              "zh": "9cd5fab355d1310e",
+              "en": "1112f23eb00bfe6a"
+            }
+          }
+        }
+      ],
+      "5": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "always"
+          },
+          "norms": {
+            "zh": "444d4002d3d7815e",
+            "en": "db46d7a0d4153f15"
+          },
+          "skills": {
+            "deploy-checklist": {
+              "zh": "9e74f8dfe7a98f68",
+              "en": "29e226d748b13116"
+            },
+            "incident-postmortem": {
+              "zh": "d788bc96d2894307",
+              "en": "78a1173237fca67e"
+            },
+            "commit-message": {
+              "zh": "9cd5fab355d1310e",
+              "en": "1112f23eb00bfe6a"
+            }
+          }
+        }
+      ]
+    },
+    "frontend-dev": {
+      "1": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "send_out": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "9a308219f700b14d",
+            "en": "5ee538ee47fea1f3"
+          },
+          "skills": {
+            "bugfix-flow": {
+              "zh": "72db49c06298a088",
+              "en": "8930fb3c3c237dfb"
+            },
+            "ui-component-checklist": {
+              "zh": "be9b6ac8e1176c6c",
+              "en": "e7c037ffb8320afd"
+            },
+            "commit-message": {
+              "zh": "dd95539f76dc140b",
+              "en": "029bf14963d61f29"
+            }
+          }
+        }
+      ],
+      "2": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "send_out": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "e41e84b26bd067dd",
+            "en": "ee7a67df9f96d2f2"
+          },
+          "skills": {
+            "bugfix-flow": {
+              "zh": "8a26c4b46ac21754",
+              "en": "787b04c389f91028"
+            },
+            "ui-component-checklist": {
+              "zh": "df12389eb5e31037",
+              "en": "16c5506dbf5d2ccf"
+            },
+            "commit-message": {
+              "zh": "9cd5fab355d1310e",
+              "en": "1112f23eb00bfe6a"
+            },
+            "development-workflow": {
+              "zh": "99d3aa50eb6ba86e",
+              "en": "b824b7567d2a3a04"
+            }
+          }
+        }
+      ],
+      "3": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "send_out": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "28d297e92889eac1",
+            "en": "3bca6b4a85f4df1d"
+          },
+          "skills": {
+            "bugfix-flow": {
+              "zh": "8a26c4b46ac21754",
+              "en": "787b04c389f91028"
+            },
+            "ui-component-checklist": {
+              "zh": "df12389eb5e31037",
+              "en": "16c5506dbf5d2ccf"
+            },
+            "commit-message": {
+              "zh": "9cd5fab355d1310e",
+              "en": "1112f23eb00bfe6a"
+            },
+            "development-workflow": {
+              "zh": "51fe7911f9420e16",
+              "en": "843898251e54332a"
+            }
+          }
+        }
+      ],
+      "4": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "send_out": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "21addff31520197c",
+            "en": "8645fb83e7ca4b41"
+          },
+          "skills": {
+            "bugfix-flow": {
+              "zh": "8a26c4b46ac21754",
+              "en": "787b04c389f91028"
+            },
+            "ui-component-checklist": {
+              "zh": "df12389eb5e31037",
+              "en": "16c5506dbf5d2ccf"
+            },
+            "development-workflow": {
+              "zh": "06ba652ef75f98d5",
+              "en": "57350209dad17456"
+            }
+          }
+        }
+      ],
+      "5": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "send_out": "never"
+          },
+          "norms": {
+            "zh": "21addff31520197c",
+            "en": "8645fb83e7ca4b41"
+          },
+          "skills": {
+            "bugfix-flow": {
+              "zh": "8a26c4b46ac21754",
+              "en": "787b04c389f91028"
+            },
+            "ui-component-checklist": {
+              "zh": "df12389eb5e31037",
+              "en": "16c5506dbf5d2ccf"
+            },
+            "development-workflow": {
+              "zh": "06ba652ef75f98d5",
+              "en": "57350209dad17456"
+            }
+          }
+        }
+      ],
+      "6": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "send_out": "never"
+          },
+          "norms": {
+            "zh": "21addff31520197c",
+            "en": "8645fb83e7ca4b41"
+          },
+          "skills": {
+            "bugfix-flow": {
+              "zh": "8a26c4b46ac21754",
+              "en": "787b04c389f91028"
+            },
+            "ui-component-checklist": {
+              "zh": "df12389eb5e31037",
+              "en": "16c5506dbf5d2ccf"
+            },
+            "development-workflow": {
+              "zh": "06ba652ef75f98d5",
+              "en": "57350209dad17456"
+            },
+            "change-report": {
+              "zh": "3dc181a82ccd8f61",
+              "en": "6a605c912294e7f1"
+            }
+          }
+        }
+      ],
+      "7": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "send_out": "never"
+          },
+          "norms": {
+            "zh": "21addff31520197c",
+            "en": "8645fb83e7ca4b41"
+          },
+          "skills": {
+            "bugfix-flow": {
+              "zh": "8a26c4b46ac21754",
+              "en": "787b04c389f91028"
+            },
+            "ui-component-checklist": {
+              "zh": "df12389eb5e31037",
+              "en": "16c5506dbf5d2ccf"
+            },
+            "development-workflow": {
+              "zh": "f6e1ac5795a4bcf9",
+              "en": "8ceb464657d60695"
+            },
+            "change-report": {
+              "zh": "3dc181a82ccd8f61",
+              "en": "6a605c912294e7f1"
+            }
+          }
+        }
+      ],
+      "8": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "always",
+            "send_out": "never"
+          },
+          "norms": {
+            "zh": "21addff31520197c",
+            "en": "8645fb83e7ca4b41"
+          },
+          "skills": {
+            "bugfix-flow": {
+              "zh": "8a26c4b46ac21754",
+              "en": "787b04c389f91028"
+            },
+            "ui-component-checklist": {
+              "zh": "df12389eb5e31037",
+              "en": "16c5506dbf5d2ccf"
+            },
+            "development-workflow": {
+              "zh": "f6e1ac5795a4bcf9",
+              "en": "8ceb464657d60695"
+            },
+            "change-report": {
+              "zh": "3dc181a82ccd8f61",
+              "en": "6a605c912294e7f1"
+            }
+          }
+        }
+      ]
+    },
+    "fullstack-dev": {
+      "1": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "send_out": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "fe43c3d29d4a89bd",
+            "en": "7e442b9680a4340b"
+          },
+          "skills": {
+            "bugfix-flow": {
+              "zh": "72db49c06298a088",
+              "en": "8930fb3c3c237dfb"
+            },
+            "api-design-review": {
+              "zh": "351c7c15b66b0ce3",
+              "en": "7c6ee744bfe02075"
+            },
+            "commit-message": {
+              "zh": "dd95539f76dc140b",
+              "en": "029bf14963d61f29"
+            }
+          }
+        }
+      ],
+      "2": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "send_out": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "fb64ef1293cdf249",
+            "en": "ffe3104167730e64"
+          },
+          "skills": {
+            "bugfix-flow": {
+              "zh": "8a26c4b46ac21754",
+              "en": "787b04c389f91028"
+            },
+            "api-design-review": {
+              "zh": "83d2d9a96aebe6b6",
+              "en": "edd70ea1a7990151"
+            },
+            "commit-message": {
+              "zh": "9cd5fab355d1310e",
+              "en": "1112f23eb00bfe6a"
+            },
+            "development-workflow": {
+              "zh": "99d3aa50eb6ba86e",
+              "en": "b824b7567d2a3a04"
+            }
+          }
+        }
+      ],
+      "3": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "send_out": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "5eadd0789c9256b4",
+            "en": "47081ffbdc335743"
+          },
+          "skills": {
+            "bugfix-flow": {
+              "zh": "8a26c4b46ac21754",
+              "en": "787b04c389f91028"
+            },
+            "api-design-review": {
+              "zh": "83d2d9a96aebe6b6",
+              "en": "edd70ea1a7990151"
+            },
+            "commit-message": {
+              "zh": "9cd5fab355d1310e",
+              "en": "1112f23eb00bfe6a"
+            },
+            "development-workflow": {
+              "zh": "51fe7911f9420e16",
+              "en": "843898251e54332a"
+            }
+          }
+        }
+      ],
+      "4": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "send_out": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "d2fd23742e4e9b6a",
+            "en": "bb90b1a388f185ae"
+          },
+          "skills": {
+            "bugfix-flow": {
+              "zh": "8a26c4b46ac21754",
+              "en": "787b04c389f91028"
+            },
+            "api-design-review": {
+              "zh": "83d2d9a96aebe6b6",
+              "en": "edd70ea1a7990151"
+            },
+            "development-workflow": {
+              "zh": "06ba652ef75f98d5",
+              "en": "57350209dad17456"
+            }
+          }
+        }
+      ],
+      "5": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "send_out": "never"
+          },
+          "norms": {
+            "zh": "d2fd23742e4e9b6a",
+            "en": "bb90b1a388f185ae"
+          },
+          "skills": {
+            "bugfix-flow": {
+              "zh": "8a26c4b46ac21754",
+              "en": "787b04c389f91028"
+            },
+            "api-design-review": {
+              "zh": "83d2d9a96aebe6b6",
+              "en": "edd70ea1a7990151"
+            },
+            "development-workflow": {
+              "zh": "06ba652ef75f98d5",
+              "en": "57350209dad17456"
+            }
+          }
+        }
+      ],
+      "6": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "send_out": "never"
+          },
+          "norms": {
+            "zh": "d2fd23742e4e9b6a",
+            "en": "bb90b1a388f185ae"
+          },
+          "skills": {
+            "bugfix-flow": {
+              "zh": "8a26c4b46ac21754",
+              "en": "787b04c389f91028"
+            },
+            "api-design-review": {
+              "zh": "83d2d9a96aebe6b6",
+              "en": "edd70ea1a7990151"
+            },
+            "development-workflow": {
+              "zh": "06ba652ef75f98d5",
+              "en": "57350209dad17456"
+            },
+            "change-report": {
+              "zh": "3dc181a82ccd8f61",
+              "en": "6a605c912294e7f1"
+            }
+          }
+        }
+      ],
+      "7": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "send_out": "never"
+          },
+          "norms": {
+            "zh": "d2fd23742e4e9b6a",
+            "en": "bb90b1a388f185ae"
+          },
+          "skills": {
+            "bugfix-flow": {
+              "zh": "8a26c4b46ac21754",
+              "en": "787b04c389f91028"
+            },
+            "api-design-review": {
+              "zh": "83d2d9a96aebe6b6",
+              "en": "edd70ea1a7990151"
+            },
+            "development-workflow": {
+              "zh": "f6e1ac5795a4bcf9",
+              "en": "8ceb464657d60695"
+            },
+            "change-report": {
+              "zh": "3dc181a82ccd8f61",
+              "en": "6a605c912294e7f1"
+            }
+          }
+        }
+      ],
+      "8": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "always",
+            "send_out": "never"
+          },
+          "norms": {
+            "zh": "d2fd23742e4e9b6a",
+            "en": "bb90b1a388f185ae"
+          },
+          "skills": {
+            "bugfix-flow": {
+              "zh": "8a26c4b46ac21754",
+              "en": "787b04c389f91028"
+            },
+            "api-design-review": {
+              "zh": "83d2d9a96aebe6b6",
+              "en": "edd70ea1a7990151"
+            },
+            "development-workflow": {
+              "zh": "f6e1ac5795a4bcf9",
+              "en": "8ceb464657d60695"
+            },
+            "change-report": {
+              "zh": "3dc181a82ccd8f61",
+              "en": "6a605c912294e7f1"
+            }
+          }
+        }
+      ]
+    },
+    "general-assistant": {
+      "1": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {},
+          "norms": {
+            "zh": "3bc35e386718ad0f",
+            "en": "8a8f49fdab410303"
+          },
+          "skills": {}
+        }
+      ],
+      "2": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {},
+          "norms": {
+            "zh": "5990c191ae94ba10",
+            "en": "0bcb7381487ed14c"
+          },
+          "skills": {}
+        }
+      ],
+      "3": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {},
+          "norms": {
+            "zh": "39f8cd036895dadb",
+            "en": "1fdbdf2d323d6cb6"
+          },
+          "skills": {}
+        }
+      ],
+      "4": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {},
+          "norms": {
+            "zh": "ec9c57a79d739df6",
+            "en": "f230e71206f59fbe"
+          },
+          "skills": {}
+        }
+      ],
+      "5": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {},
+          "norms": {
+            "zh": "4c8ec9dbf1672f55",
+            "en": "6f2b4cb102d95303"
+          },
+          "skills": {}
+        }
+      ],
+      "6": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {},
+          "norms": {
+            "zh": "ec9c57a79d739df6",
+            "en": "f230e71206f59fbe"
+          },
+          "skills": {}
+        }
+      ]
+    },
+    "image-designer": {
+      "1": [
+        {
+          "thinkingLevel": "off",
+          "permissionOverrides": {
+            "run_command": "never",
+            "send_out": "never"
+          },
+          "norms": {
+            "zh": "222f2d0651af963f",
+            "en": "19a5cc2408c53dab"
+          },
+          "skills": {
+            "image-prompt-writing": {
+              "zh": "0004dadf11396b84",
+              "en": "3968d59e2a33ed04"
+            },
+            "image-brief": {
+              "zh": "9206ef01a7eb6f53",
+              "en": "e68f1032667b9139"
+            }
+          }
+        }
+      ],
+      "2": [
+        {
+          "thinkingLevel": "off",
+          "permissionOverrides": {
+            "run_command": "never",
+            "send_out": "never"
+          },
+          "norms": {
+            "zh": "5bf77ca781d214ba",
+            "en": "cd8697fcae14ccec"
+          },
+          "skills": {
+            "image-prompt-writing": {
+              "zh": "a5583509570d9025",
+              "en": "73fefa94a5eb7386"
+            },
+            "image-brief": {
+              "zh": "2575b629ba43fc77",
+              "en": "4800fd9ecccdc69e"
+            }
+          }
+        }
+      ],
+      "3": [
+        {
+          "thinkingLevel": "off",
+          "permissionOverrides": {
+            "run_command": "never",
+            "send_out": "never"
+          },
+          "norms": {
+            "zh": "9ffd73c6ed8fb488",
+            "en": "c2c90f6181111eaf"
+          },
+          "skills": {
+            "image-prompt-writing": {
+              "zh": "a5583509570d9025",
+              "en": "73fefa94a5eb7386"
+            },
+            "image-brief": {
+              "zh": "2575b629ba43fc77",
+              "en": "4800fd9ecccdc69e"
+            }
+          }
+        }
+      ],
+      "4": [
+        {
+          "thinkingLevel": "off",
+          "permissionOverrides": {
+            "run_command": "never",
+            "send_out": "never"
+          },
+          "norms": {
+            "zh": "e05367c96f5bbbaa",
+            "en": "8a6e4c719926917f"
+          },
+          "skills": {
+            "image-prompt-writing": {
+              "zh": "a5583509570d9025",
+              "en": "73fefa94a5eb7386"
+            },
+            "image-brief": {
+              "zh": "2575b629ba43fc77",
+              "en": "4800fd9ecccdc69e"
+            }
+          }
+        }
+      ],
+      "5": [
+        {
+          "thinkingLevel": "off",
+          "permissionOverrides": {
+            "run_command": "never",
+            "send_out": "never"
+          },
+          "norms": {
+            "zh": "18e22bcff2c81d20",
+            "en": "6746b65184acc6ed"
+          },
+          "skills": {
+            "image-prompt-writing": {
+              "zh": "a5583509570d9025",
+              "en": "73fefa94a5eb7386"
+            },
+            "image-brief": {
+              "zh": "2575b629ba43fc77",
+              "en": "4800fd9ecccdc69e"
+            }
+          }
+        }
+      ],
+      "6": [
+        {
+          "thinkingLevel": "off",
+          "permissionOverrides": {
+            "run_command": "never",
+            "send_out": "never"
+          },
+          "norms": {
+            "zh": "18e22bcff2c81d20",
+            "en": "6746b65184acc6ed"
+          },
+          "skills": {
+            "image-prompt-writing": {
+              "zh": "a5583509570d9025",
+              "en": "73fefa94a5eb7386"
+            },
+            "image-brief": {
+              "zh": "48067e663231c5e9",
+              "en": "1d70cc690a08f75c"
+            }
+          }
+        }
+      ]
+    },
+    "personal-assistant": {
+      "1": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "send_out": "ask"
+          },
+          "norms": {
+            "zh": "c1b110e703b4ead3",
+            "en": "0aa5205232b3aee4"
+          },
+          "skills": {
+            "meeting-minutes": {
+              "zh": "a940efd43b683988",
+              "en": "00269a4f0669ac8b"
+            },
+            "weekly-report": {
+              "zh": "6216d4189c94a020",
+              "en": "9c7fb1c36aec298b"
+            },
+            "email-draft": {
+              "zh": "43c3f173c244a74d",
+              "en": "95796ed404066be8"
+            }
+          }
+        }
+      ],
+      "2": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "send_out": "ask"
+          },
+          "norms": {
+            "zh": "2dbf594c91ed10fc",
+            "en": "9f13a3ffca764fbb"
+          },
+          "skills": {
+            "meeting-minutes": {
+              "zh": "50e98acc6fe06901",
+              "en": "9e0c7b969cdc67d4"
+            },
+            "weekly-report": {
+              "zh": "c917dcf69849f9d8",
+              "en": "6301565c67a8ca0a"
+            },
+            "email-draft": {
+              "zh": "143f20a8991fac42",
+              "en": "3ab8e8047248f9a4"
+            }
+          }
+        }
+      ],
+      "3": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "send_out": "ask"
+          },
+          "norms": {
+            "zh": "b3406ff531f4053f",
+            "en": "c6107bc72663861d"
+          },
+          "skills": {
+            "meeting-minutes": {
+              "zh": "50e98acc6fe06901",
+              "en": "9e0c7b969cdc67d4"
+            },
+            "weekly-report": {
+              "zh": "c917dcf69849f9d8",
+              "en": "6301565c67a8ca0a"
+            },
+            "email-draft": {
+              "zh": "143f20a8991fac42",
+              "en": "3ab8e8047248f9a4"
+            }
+          }
+        }
+      ],
+      "4": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "send_out": "ask"
+          },
+          "norms": {
+            "zh": "300841b4a337be06",
+            "en": "592e917c82800d46"
+          },
+          "skills": {
+            "meeting-minutes": {
+              "zh": "50e98acc6fe06901",
+              "en": "9e0c7b969cdc67d4"
+            },
+            "weekly-report": {
+              "zh": "c917dcf69849f9d8",
+              "en": "6301565c67a8ca0a"
+            },
+            "email-draft": {
+              "zh": "143f20a8991fac42",
+              "en": "3ab8e8047248f9a4"
+            }
+          }
+        }
+      ],
+      "5": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "send_out": "ask"
+          },
+          "norms": {
+            "zh": "300841b4a337be06",
+            "en": "592e917c82800d46"
+          },
+          "skills": {
+            "meeting-minutes": {
+              "zh": "50e98acc6fe06901",
+              "en": "9e0c7b969cdc67d4"
+            },
+            "weekly-report": {
+              "zh": "c917dcf69849f9d8",
+              "en": "6301565c67a8ca0a"
+            },
+            "email-draft": {
+              "zh": "143f20a8991fac42",
+              "en": "3ab8e8047248f9a4"
+            },
+            "todo-followup": {
+              "zh": "c2d9ed8f7a855a0f",
+              "en": "d031c817f3bc167d"
+            }
+          }
+        }
+      ]
+    },
+    "product-manager": {
+      "1": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "f13e1aa451b58c12",
+            "en": "cd47c5873ab0d978"
+          },
+          "skills": {
+            "prd-writing": {
+              "zh": "1a27fb7ca709df39",
+              "en": "75efd1c20c6bbf90"
+            },
+            "competitive-analysis": {
+              "zh": "bc9e3ddad3b96f1a",
+              "en": "13ba4aa34dd6c1b0"
+            },
+            "interview-synthesis": {
+              "zh": "d98b2be26f8c451f",
+              "en": "8f912f754f71100b"
+            }
+          }
+        }
+      ],
+      "2": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "d7757b77add151c1",
+            "en": "97ca8733471e5fa7"
+          },
+          "skills": {
+            "prd-writing": {
+              "zh": "f6454df234998764",
+              "en": "d530b8734cd4ed5a"
+            },
+            "competitive-analysis": {
+              "zh": "d51f02ec957837f0",
+              "en": "d057ac872b6a69c7"
+            },
+            "interview-synthesis": {
+              "zh": "e58b6cd684882ebf",
+              "en": "a8a9936e80af788b"
+            }
+          }
+        }
+      ],
+      "3": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "f5e8f8a7e3f033f1",
+            "en": "3f4f3f7b8af5644e"
+          },
+          "skills": {
+            "prd-writing": {
+              "zh": "f6454df234998764",
+              "en": "d530b8734cd4ed5a"
+            },
+            "competitive-analysis": {
+              "zh": "d51f02ec957837f0",
+              "en": "d057ac872b6a69c7"
+            },
+            "interview-synthesis": {
+              "zh": "e58b6cd684882ebf",
+              "en": "a8a9936e80af788b"
+            }
+          }
+        }
+      ],
+      "4": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "1d4e424273e62811",
+            "en": "d8cdfed4be84b518"
+          },
+          "skills": {
+            "prd-writing": {
+              "zh": "f6454df234998764",
+              "en": "d530b8734cd4ed5a"
+            },
+            "competitive-analysis": {
+              "zh": "d51f02ec957837f0",
+              "en": "d057ac872b6a69c7"
+            },
+            "interview-synthesis": {
+              "zh": "e58b6cd684882ebf",
+              "en": "a8a9936e80af788b"
+            }
+          }
+        }
+      ],
+      "5": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "1d4e424273e62811",
+            "en": "d8cdfed4be84b518"
+          },
+          "skills": {
+            "prd-writing": {
+              "zh": "f6454df234998764",
+              "en": "d530b8734cd4ed5a"
+            },
+            "competitive-analysis": {
+              "zh": "d51f02ec957837f0",
+              "en": "d057ac872b6a69c7"
+            },
+            "interview-synthesis": {
+              "zh": "e58b6cd684882ebf",
+              "en": "a8a9936e80af788b"
+            }
+          }
+        }
+      ],
+      "6": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "1d4e424273e62811",
+            "en": "d8cdfed4be84b518"
+          },
+          "skills": {
+            "prd-writing": {
+              "zh": "f6454df234998764",
+              "en": "d530b8734cd4ed5a"
+            },
+            "interview-synthesis": {
+              "zh": "e58b6cd684882ebf",
+              "en": "a8a9936e80af788b"
+            }
+          }
+        }
+      ]
+    },
+    "project-manager": {
+      "1": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "15bca7dd69a512b4",
+            "en": "1ca29f80bff8524a"
+          },
+          "skills": {
+            "project-plan": {
+              "zh": "de276a7991047d48",
+              "en": "a3761d1b32aaf009"
+            },
+            "meeting-minutes": {
+              "zh": "a940efd43b683988",
+              "en": "00269a4f0669ac8b"
+            },
+            "weekly-report": {
+              "zh": "6216d4189c94a020",
+              "en": "9c7fb1c36aec298b"
+            }
+          }
+        }
+      ],
+      "2": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "37fb65b2f815c162",
+            "en": "da290e7366fd93b5"
+          },
+          "skills": {
+            "project-plan": {
+              "zh": "5d8c036e04b5c5c1",
+              "en": "3965afb2bb7cba4c"
+            },
+            "meeting-minutes": {
+              "zh": "50e98acc6fe06901",
+              "en": "9e0c7b969cdc67d4"
+            },
+            "weekly-report": {
+              "zh": "c917dcf69849f9d8",
+              "en": "6301565c67a8ca0a"
+            }
+          }
+        }
+      ],
+      "3": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "c4a066e2c6d08ea1",
+            "en": "071fbcd3650a3f2c"
+          },
+          "skills": {
+            "project-plan": {
+              "zh": "5d8c036e04b5c5c1",
+              "en": "3965afb2bb7cba4c"
+            },
+            "meeting-minutes": {
+              "zh": "50e98acc6fe06901",
+              "en": "9e0c7b969cdc67d4"
+            },
+            "weekly-report": {
+              "zh": "c917dcf69849f9d8",
+              "en": "6301565c67a8ca0a"
+            }
+          }
+        }
+      ],
+      "4": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "3bf477f7f68687f5",
+            "en": "f2ce50a0e6d85c70"
+          },
+          "skills": {
+            "project-plan": {
+              "zh": "5d8c036e04b5c5c1",
+              "en": "3965afb2bb7cba4c"
+            },
+            "meeting-minutes": {
+              "zh": "50e98acc6fe06901",
+              "en": "9e0c7b969cdc67d4"
+            },
+            "weekly-report": {
+              "zh": "c917dcf69849f9d8",
+              "en": "6301565c67a8ca0a"
+            }
+          }
+        }
+      ]
+    },
+    "qa-engineer": {
+      "1": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "4f28882eb5318031",
+            "en": "938a379fa67c8c85"
+          },
+          "skills": {
+            "bug-report": {
+              "zh": "bb6083abd84aa638",
+              "en": "9fea3a8a96a03035"
+            },
+            "test-case-design": {
+              "zh": "0dcc638bc1e560e7",
+              "en": "a598ea01759e8c19"
+            }
+          }
+        }
+      ],
+      "2": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "2421c47cfbee8267",
+            "en": "f57555b717978a75"
+          },
+          "skills": {
+            "bug-report": {
+              "zh": "fdec0b30065884a1",
+              "en": "954ce1df3b4e350c"
+            },
+            "test-case-design": {
+              "zh": "71fc66596a9a47ad",
+              "en": "9df75efa49364a61"
+            }
+          }
+        }
+      ],
+      "3": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "f92e87c50e175c5b",
+            "en": "f64c9663ab021112"
+          },
+          "skills": {
+            "bug-report": {
+              "zh": "fdec0b30065884a1",
+              "en": "954ce1df3b4e350c"
+            },
+            "test-case-design": {
+              "zh": "71fc66596a9a47ad",
+              "en": "9df75efa49364a61"
+            }
+          }
+        }
+      ],
+      "4": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "9de5c57eaa77d628",
+            "en": "448327e62b087f4b"
+          },
+          "skills": {
+            "bug-report": {
+              "zh": "fdec0b30065884a1",
+              "en": "954ce1df3b4e350c"
+            },
+            "test-case-design": {
+              "zh": "71fc66596a9a47ad",
+              "en": "9df75efa49364a61"
+            }
+          }
+        }
+      ],
+      "5": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "9de5c57eaa77d628",
+            "en": "448327e62b087f4b"
+          },
+          "skills": {
+            "bug-report": {
+              "zh": "fdec0b30065884a1",
+              "en": "954ce1df3b4e350c"
+            },
+            "test-case-design": {
+              "zh": "71fc66596a9a47ad",
+              "en": "9df75efa49364a61"
+            }
+          }
+        }
+      ],
+      "6": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "9de5c57eaa77d628",
+            "en": "448327e62b087f4b"
+          },
+          "skills": {
+            "bug-report": {
+              "zh": "fdec0b30065884a1",
+              "en": "954ce1df3b4e350c"
+            },
+            "test-case-design": {
+              "zh": "71fc66596a9a47ad",
+              "en": "9df75efa49364a61"
+            },
+            "test-report": {
+              "zh": "d3b0b368214216e9",
+              "en": "45cb76b38a249d7e"
+            }
+          }
+        }
+      ],
+      "7": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "always"
+          },
+          "norms": {
+            "zh": "9de5c57eaa77d628",
+            "en": "448327e62b087f4b"
+          },
+          "skills": {
+            "bug-report": {
+              "zh": "fdec0b30065884a1",
+              "en": "954ce1df3b4e350c"
+            },
+            "test-case-design": {
+              "zh": "71fc66596a9a47ad",
+              "en": "9df75efa49364a61"
+            },
+            "test-report": {
+              "zh": "d3b0b368214216e9",
+              "en": "45cb76b38a249d7e"
+            }
+          }
+        }
+      ]
+    },
+    "recruiter": {
+      "1": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never",
+            "send_out": "ask"
+          },
+          "norms": {
+            "zh": "987c0200ffd89d2d",
+            "en": "af63fd34bc9b5f27"
+          },
+          "skills": {
+            "job-description": {
+              "zh": "707d88cde161fed5",
+              "en": "c375a1478ecc0979"
+            },
+            "interview-kit": {
+              "zh": "592459dc2e36840c",
+              "en": "453be3add6c85a3d"
+            },
+            "email-draft": {
+              "zh": "43c3f173c244a74d",
+              "en": "95796ed404066be8"
+            }
+          }
+        }
+      ],
+      "2": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never",
+            "send_out": "ask"
+          },
+          "norms": {
+            "zh": "30929024aa5906f6",
+            "en": "f5dd0b22892e47a5"
+          },
+          "skills": {
+            "job-description": {
+              "zh": "12f4e29f007abe55",
+              "en": "61691d13fc2cdbd4"
+            },
+            "interview-kit": {
+              "zh": "ce996a567eefefc0",
+              "en": "9fcd3aa34d48d233"
+            },
+            "email-draft": {
+              "zh": "143f20a8991fac42",
+              "en": "3ab8e8047248f9a4"
+            }
+          }
+        }
+      ],
+      "3": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never",
+            "send_out": "ask"
+          },
+          "norms": {
+            "zh": "4a7aae112469ef46",
+            "en": "ab64e3d705039fb4"
+          },
+          "skills": {
+            "job-description": {
+              "zh": "12f4e29f007abe55",
+              "en": "61691d13fc2cdbd4"
+            },
+            "interview-kit": {
+              "zh": "ce996a567eefefc0",
+              "en": "9fcd3aa34d48d233"
+            },
+            "email-draft": {
+              "zh": "143f20a8991fac42",
+              "en": "3ab8e8047248f9a4"
+            }
+          }
+        }
+      ],
+      "4": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never",
+            "send_out": "ask"
+          },
+          "norms": {
+            "zh": "0275fffa5d481558",
+            "en": "2fdff16396d74040"
+          },
+          "skills": {
+            "job-description": {
+              "zh": "12f4e29f007abe55",
+              "en": "61691d13fc2cdbd4"
+            },
+            "interview-kit": {
+              "zh": "ce996a567eefefc0",
+              "en": "9fcd3aa34d48d233"
+            },
+            "email-draft": {
+              "zh": "143f20a8991fac42",
+              "en": "3ab8e8047248f9a4"
+            }
+          }
+        }
+      ]
+    },
+    "researcher": {
+      "1": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "b54a207287e9629f",
+            "en": "8d24aa2478c051dd"
+          },
+          "skills": {
+            "research-report": {
+              "zh": "d5591af8e947c0f7",
+              "en": "812bdc62176c416e"
+            },
+            "source-notes": {
+              "zh": "47aa080aa54113d6",
+              "en": "5d59a3374e084f06"
+            },
+            "competitive-analysis": {
+              "zh": "bc9e3ddad3b96f1a",
+              "en": "13ba4aa34dd6c1b0"
+            }
+          }
+        }
+      ],
+      "2": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "2255b196b5e03561",
+            "en": "221f13ac34e4627b"
+          },
+          "skills": {
+            "research-report": {
+              "zh": "dab6d28d04019560",
+              "en": "8071404b3fd48a29"
+            },
+            "source-notes": {
+              "zh": "db692559c072035d",
+              "en": "4ededb485c9897bd"
+            },
+            "competitive-analysis": {
+              "zh": "d51f02ec957837f0",
+              "en": "d057ac872b6a69c7"
+            }
+          }
+        }
+      ],
+      "3": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "bd4e35dbd7a8cd19",
+            "en": "7c18ae242142dcfb"
+          },
+          "skills": {
+            "research-report": {
+              "zh": "dab6d28d04019560",
+              "en": "8071404b3fd48a29"
+            },
+            "source-notes": {
+              "zh": "db692559c072035d",
+              "en": "4ededb485c9897bd"
+            },
+            "competitive-analysis": {
+              "zh": "d51f02ec957837f0",
+              "en": "d057ac872b6a69c7"
+            }
+          }
+        }
+      ],
+      "4": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "f639acd5e6eb7ff5",
+            "en": "58c7c9068e91fc4c"
+          },
+          "skills": {
+            "research-report": {
+              "zh": "dab6d28d04019560",
+              "en": "8071404b3fd48a29"
+            },
+            "source-notes": {
+              "zh": "db692559c072035d",
+              "en": "4ededb485c9897bd"
+            },
+            "competitive-analysis": {
+              "zh": "d51f02ec957837f0",
+              "en": "d057ac872b6a69c7"
+            }
+          }
+        }
+      ],
+      "5": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "f639acd5e6eb7ff5",
+            "en": "58c7c9068e91fc4c"
+          },
+          "skills": {
+            "research-report": {
+              "zh": "dab6d28d04019560",
+              "en": "8071404b3fd48a29"
+            },
+            "source-notes": {
+              "zh": "db692559c072035d",
+              "en": "4ededb485c9897bd"
+            },
+            "competitive-analysis": {
+              "zh": "d51f02ec957837f0",
+              "en": "d057ac872b6a69c7"
+            },
+            "periodic-brief": {
+              "zh": "66c311ce1076dab1",
+              "en": "3107c504e4ec750a"
+            }
+          }
+        }
+      ],
+      "6": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "921774fd0f0f012a",
+            "en": "cc7fa61be767b023"
+          },
+          "skills": {
+            "research-report": {
+              "zh": "9b7e8e561c16ccdc",
+              "en": "ba1dba9e7246ee28"
+            },
+            "source-notes": {
+              "zh": "db692559c072035d",
+              "en": "4ededb485c9897bd"
+            },
+            "competitive-analysis": {
+              "zh": "d51f02ec957837f0",
+              "en": "d057ac872b6a69c7"
+            },
+            "periodic-brief": {
+              "zh": "66c311ce1076dab1",
+              "en": "3107c504e4ec750a"
+            }
+          }
+        }
+      ],
+      "7": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "921774fd0f0f012a",
+            "en": "cc7fa61be767b023"
+          },
+          "skills": {
+            "research-report": {
+              "zh": "4189637dde620a05",
+              "en": "c5ff9d31b6778d39"
+            },
+            "source-notes": {
+              "zh": "db692559c072035d",
+              "en": "4ededb485c9897bd"
+            },
+            "competitive-analysis": {
+              "zh": "d51f02ec957837f0",
+              "en": "d057ac872b6a69c7"
+            },
+            "periodic-brief": {
+              "zh": "66c311ce1076dab1",
+              "en": "3107c504e4ec750a"
+            }
+          }
+        }
+      ],
+      "8": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "921774fd0f0f012a",
+            "en": "cc7fa61be767b023"
+          },
+          "skills": {
+            "research-report": {
+              "zh": "4189637dde620a05",
+              "en": "c5ff9d31b6778d39"
+            },
+            "source-notes": {
+              "zh": "db692559c072035d",
+              "en": "4ededb485c9897bd"
+            },
+            "competitive-analysis": {
+              "zh": "d51f02ec957837f0",
+              "en": "d057ac872b6a69c7"
+            },
+            "periodic-brief": {
+              "zh": "281218709890a72b",
+              "en": "77a6e6cf48dd91bd"
+            }
+          }
+        }
+      ],
+      "9": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "921774fd0f0f012a",
+            "en": "cc7fa61be767b023"
+          },
+          "skills": {
+            "research-report": {
+              "zh": "4189637dde620a05",
+              "en": "c5ff9d31b6778d39"
+            },
+            "source-notes": {
+              "zh": "db692559c072035d",
+              "en": "4ededb485c9897bd"
+            },
+            "competitive-analysis": {
+              "zh": "d51f02ec957837f0",
+              "en": "d057ac872b6a69c7"
+            },
+            "periodic-brief": {
+              "zh": "281218709890a72b",
+              "en": "77a6e6cf48dd91bd"
+            }
+          }
+        }
+      ],
+      "10": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "921774fd0f0f012a",
+            "en": "cc7fa61be767b023"
+          },
+          "skills": {}
+        }
+      ],
+      "11": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "921774fd0f0f012a",
+            "en": "cc7fa61be767b023"
+          },
+          "skills": {
+            "research-report": {
+              "zh": "4189637dde620a05",
+              "en": "c5ff9d31b6778d39"
+            },
+            "competitive-analysis": {
+              "zh": "d51f02ec957837f0",
+              "en": "d057ac872b6a69c7"
+            },
+            "source-notes": {
+              "zh": "db692559c072035d",
+              "en": "4ededb485c9897bd"
+            },
+            "periodic-brief": {
+              "zh": "281218709890a72b",
+              "en": "77a6e6cf48dd91bd"
+            }
+          }
+        }
+      ],
+      "12": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "921774fd0f0f012a",
+            "en": "cc7fa61be767b023"
+          },
+          "skills": {
+            "research-report": {
+              "zh": "58beae33f712c143",
+              "en": "193e5a4868d2fa9b"
+            },
+            "competitive-analysis": {
+              "zh": "b2c3a3eea6f9d6fb",
+              "en": "e8d84f7fec48efb0"
+            },
+            "source-notes": {
+              "zh": "3fd7ae921a308fda",
+              "en": "9451411a36cdf83d"
+            },
+            "periodic-brief": {
+              "zh": "14d405fc36c94e1d",
+              "en": "4946ac4ff388b2f0"
+            }
+          }
+        }
+      ],
+      "13": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "921774fd0f0f012a",
+            "en": "cc7fa61be767b023"
+          },
+          "skills": {
+            "research-report": {
+              "zh": "58beae33f712c143",
+              "en": "193e5a4868d2fa9b"
+            },
+            "competitive-analysis": {
+              "zh": "e99c8ca0a0ea6d2f",
+              "en": "5bde15ff5797bdac"
+            },
+            "source-notes": {
+              "zh": "bf9634804aae2176",
+              "en": "eee207c3dd34bfc8"
+            },
+            "periodic-brief": {
+              "zh": "14d405fc36c94e1d",
+              "en": "4946ac4ff388b2f0"
+            },
+            "fact-check": {
+              "zh": "acf6ef771bc50bd7",
+              "en": "b3d0f337b723810c"
+            }
+          }
+        }
+      ],
+      "14": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "921774fd0f0f012a",
+            "en": "cc7fa61be767b023"
+          },
+          "skills": {
+            "research-report": {
+              "zh": "178a69410b61b5c4",
+              "en": "a3ff51cf291a3dc6"
+            },
+            "competitive-analysis": {
+              "zh": "e99c8ca0a0ea6d2f",
+              "en": "5bde15ff5797bdac"
+            },
+            "source-notes": {
+              "zh": "c785206b16c58715",
+              "en": "a68d3a672f691436"
+            },
+            "periodic-brief": {
+              "zh": "14d405fc36c94e1d",
+              "en": "4946ac4ff388b2f0"
+            },
+            "fact-check": {
+              "zh": "e7755de7a4aa29f6",
+              "en": "65a1f847e124b3d3"
+            }
+          }
+        }
+      ],
+      "15": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "1baa6316b8a543bb",
+            "en": "e1e0562f73e6de57"
+          },
+          "skills": {
+            "research-report": {
+              "zh": "178a69410b61b5c4",
+              "en": "a3ff51cf291a3dc6"
+            },
+            "competitive-analysis": {
+              "zh": "e99c8ca0a0ea6d2f",
+              "en": "5bde15ff5797bdac"
+            },
+            "source-notes": {
+              "zh": "c785206b16c58715",
+              "en": "a68d3a672f691436"
+            },
+            "periodic-brief": {
+              "zh": "14d405fc36c94e1d",
+              "en": "4946ac4ff388b2f0"
+            },
+            "fact-check": {
+              "zh": "e7755de7a4aa29f6",
+              "en": "65a1f847e124b3d3"
+            }
+          }
+        }
+      ],
+      "16": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "5189a7c91d608fa5",
+            "en": "237862bbff7ebdd3"
+          },
+          "skills": {
+            "research-report": {
+              "zh": "178a69410b61b5c4",
+              "en": "a3ff51cf291a3dc6"
+            },
+            "competitive-analysis": {
+              "zh": "e99c8ca0a0ea6d2f",
+              "en": "5bde15ff5797bdac"
+            },
+            "source-notes": {
+              "zh": "c785206b16c58715",
+              "en": "a68d3a672f691436"
+            },
+            "periodic-brief": {
+              "zh": "14d405fc36c94e1d",
+              "en": "4946ac4ff388b2f0"
+            },
+            "fact-check": {
+              "zh": "e7755de7a4aa29f6",
+              "en": "65a1f847e124b3d3"
+            }
+          }
+        },
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "1baa6316b8a543bb",
+            "en": "e1e0562f73e6de57"
+          },
+          "skills": {
+            "research-report": {
+              "zh": "178a69410b61b5c4",
+              "en": "a3ff51cf291a3dc6"
+            },
+            "competitive-analysis": {
+              "zh": "e99c8ca0a0ea6d2f",
+              "en": "5bde15ff5797bdac"
+            },
+            "source-notes": {
+              "zh": "c785206b16c58715",
+              "en": "a68d3a672f691436"
+            },
+            "periodic-brief": {
+              "zh": "a0686f420ceb1100",
+              "en": "ad064ef2c8dcbbca"
+            },
+            "fact-check": {
+              "zh": "e7755de7a4aa29f6",
+              "en": "65a1f847e124b3d3"
+            }
+          }
+        }
+      ],
+      "17": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "5189a7c91d608fa5",
+            "en": "237862bbff7ebdd3"
+          },
+          "skills": {
+            "research-report": {
+              "zh": "178a69410b61b5c4",
+              "en": "a3ff51cf291a3dc6"
+            },
+            "competitive-analysis": {
+              "zh": "0c335628687dd1c2",
+              "en": "799975297621128c"
+            },
+            "source-notes": {
+              "zh": "c785206b16c58715",
+              "en": "a68d3a672f691436"
+            },
+            "periodic-brief": {
+              "zh": "1cf3f12deb896f3b",
+              "en": "ced7b1477f39608c"
+            },
+            "fact-check": {
+              "zh": "e7755de7a4aa29f6",
+              "en": "65a1f847e124b3d3"
+            }
+          }
+        }
+      ],
+      "18": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "5189a7c91d608fa5",
+            "en": "237862bbff7ebdd3"
+          },
+          "skills": {
+            "research-report": {
+              "zh": "178a69410b61b5c4",
+              "en": "a3ff51cf291a3dc6"
+            },
+            "competitive-analysis": {
+              "zh": "0c335628687dd1c2",
+              "en": "799975297621128c"
+            },
+            "source-notes": {
+              "zh": "c785206b16c58715",
+              "en": "a68d3a672f691436"
+            },
+            "periodic-brief": {
+              "zh": "2f39400e3a5af1cb",
+              "en": "9862156f99061466"
+            },
+            "fact-check": {
+              "zh": "e7755de7a4aa29f6",
+              "en": "65a1f847e124b3d3"
+            }
+          }
+        }
+      ],
+      "19": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "4b61906ce24eab1a",
+            "en": "30b0a4e74184a70f"
+          },
+          "skills": {
+            "research-report": {
+              "zh": "33be5373de42c37f",
+              "en": "4ed7bcbde8031635"
+            },
+            "competitive-analysis": {
+              "zh": "0c335628687dd1c2",
+              "en": "799975297621128c"
+            },
+            "source-notes": {
+              "zh": "c785206b16c58715",
+              "en": "a68d3a672f691436"
+            },
+            "periodic-brief": {
+              "zh": "2f39400e3a5af1cb",
+              "en": "9862156f99061466"
+            },
+            "fact-check": {
+              "zh": "e7755de7a4aa29f6",
+              "en": "65a1f847e124b3d3"
+            }
+          }
+        }
+      ],
+      "20": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "4b61906ce24eab1a",
+            "en": "30b0a4e74184a70f"
+          },
+          "skills": {
+            "research-report": {
+              "zh": "3b1da6809ec95d75",
+              "en": "cedd449ff81cb475"
+            },
+            "competitive-analysis": {
+              "zh": "0c335628687dd1c2",
+              "en": "799975297621128c"
+            },
+            "source-notes": {
+              "zh": "c785206b16c58715",
+              "en": "a68d3a672f691436"
+            },
+            "periodic-brief": {
+              "zh": "2f39400e3a5af1cb",
+              "en": "9862156f99061466"
+            },
+            "fact-check": {
+              "zh": "e7755de7a4aa29f6",
+              "en": "65a1f847e124b3d3"
+            }
+          }
+        }
+      ],
+      "22": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "842fece923a32913",
+            "en": "c2b103d12e448931"
+          },
+          "skills": {
+            "research-report": {
+              "zh": "648b2ef267dfa928",
+              "en": "8752aa132dc84aae"
+            },
+            "competitive-analysis": {
+              "zh": "504f659abd6dd62c",
+              "en": "5b2d8be0c2604a6d"
+            },
+            "source-notes": {
+              "zh": "359ab4567634dda3",
+              "en": "47fb2732bb6404c0"
+            },
+            "periodic-brief": {
+              "zh": "2f39400e3a5af1cb",
+              "en": "9862156f99061466"
+            },
+            "fact-check": {
+              "zh": "78573270abec6929",
+              "en": "15423bd1612cd6bb"
+            }
+          }
+        }
+      ],
+      "23": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "4ffe4acfc60d9a69",
+            "en": "5797d994cacc4166"
+          },
+          "skills": {
+            "research-report": {
+              "zh": "648b2ef267dfa928",
+              "en": "8752aa132dc84aae"
+            },
+            "competitive-analysis": {
+              "zh": "504f659abd6dd62c",
+              "en": "5b2d8be0c2604a6d"
+            },
+            "source-notes": {
+              "zh": "359ab4567634dda3",
+              "en": "47fb2732bb6404c0"
+            },
+            "periodic-brief": {
+              "zh": "2f39400e3a5af1cb",
+              "en": "9862156f99061466"
+            },
+            "fact-check": {
+              "zh": "78573270abec6929",
+              "en": "15423bd1612cd6bb"
+            }
+          }
+        }
+      ]
+    },
+    "social-media": {
+      "1": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never",
+            "send_out": "never"
+          },
+          "norms": {
+            "zh": "40d8ee26edaaa5e8",
+            "en": "30e738c0ad4e2ae9"
+          },
+          "skills": {
+            "platform-formats": {
+              "zh": "92d8c1f2f418d7c0",
+              "en": "50ff9528ce11e695"
+            },
+            "copy-framework": {
+              "zh": "67ffa6e14d4853c1",
+              "en": "d9822dcbbcf5e096"
+            },
+            "image-prompt-writing": {
+              "zh": "0004dadf11396b84",
+              "en": "3968d59e2a33ed04"
+            }
+          }
+        }
+      ],
+      "2": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never",
+            "send_out": "never"
+          },
+          "norms": {
+            "zh": "50f4f168cc8d9594",
+            "en": "172feee1afb632f3"
+          },
+          "skills": {
+            "platform-formats": {
+              "zh": "58ed0cc9ab5b3d79",
+              "en": "68f657fcb0e6ab6c"
+            },
+            "copy-framework": {
+              "zh": "8a00c438153ce5f3",
+              "en": "fc6ac80adcd493e4"
+            },
+            "image-prompt-writing": {
+              "zh": "a5583509570d9025",
+              "en": "73fefa94a5eb7386"
+            }
+          }
+        }
+      ],
+      "3": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never",
+            "send_out": "never"
+          },
+          "norms": {
+            "zh": "fc61a87a709b559f",
+            "en": "00f1d4d2bfbc1d5c"
+          },
+          "skills": {
+            "platform-formats": {
+              "zh": "58ed0cc9ab5b3d79",
+              "en": "68f657fcb0e6ab6c"
+            },
+            "copy-framework": {
+              "zh": "8a00c438153ce5f3",
+              "en": "fc6ac80adcd493e4"
+            },
+            "image-prompt-writing": {
+              "zh": "a5583509570d9025",
+              "en": "73fefa94a5eb7386"
+            }
+          }
+        }
+      ],
+      "4": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never",
+            "send_out": "never"
+          },
+          "norms": {
+            "zh": "473ca505ae52c906",
+            "en": "445fdab37613694a"
+          },
+          "skills": {
+            "platform-formats": {
+              "zh": "58ed0cc9ab5b3d79",
+              "en": "68f657fcb0e6ab6c"
+            },
+            "copy-framework": {
+              "zh": "8a00c438153ce5f3",
+              "en": "fc6ac80adcd493e4"
+            },
+            "image-prompt-writing": {
+              "zh": "a5583509570d9025",
+              "en": "73fefa94a5eb7386"
+            }
+          }
+        }
+      ],
+      "5": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never",
+            "send_out": "never"
+          },
+          "norms": {
+            "zh": "473ca505ae52c906",
+            "en": "445fdab37613694a"
+          },
+          "skills": {
+            "platform-formats": {
+              "zh": "58ed0cc9ab5b3d79",
+              "en": "68f657fcb0e6ab6c"
+            },
+            "copy-framework": {
+              "zh": "8a00c438153ce5f3",
+              "en": "fc6ac80adcd493e4"
+            },
+            "image-prompt-writing": {
+              "zh": "a5583509570d9025",
+              "en": "73fefa94a5eb7386"
+            },
+            "content-pack": {
+              "zh": "d4d86ae82c858d65",
+              "en": "a2b0b57dfaed241d"
+            }
+          }
+        }
+      ]
+    },
+    "tech-writer": {
+      "1": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "f2a11103c8da13dc",
+            "en": "c292a7d958f4cc9f"
+          },
+          "skills": {
+            "doc-structure": {
+              "zh": "01f23e097a66e8dd",
+              "en": "cfbc4a5e64244fd0"
+            },
+            "api-doc": {
+              "zh": "06e71ab9a7728769",
+              "en": "39417ff84ba1b9f3"
+            }
+          }
+        }
+      ],
+      "2": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "9cf309fb365ec0ff",
+            "en": "b65e407b4b2494eb"
+          },
+          "skills": {
+            "doc-structure": {
+              "zh": "e02974ad8332947a",
+              "en": "b1d02683d43cafd9"
+            },
+            "api-doc": {
+              "zh": "d08aee9a9ae66d1b",
+              "en": "ca9ef02126b2af61"
+            }
+          }
+        }
+      ],
+      "3": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "0b87730ae5a0076f",
+            "en": "faea616e625d9610"
+          },
+          "skills": {
+            "doc-structure": {
+              "zh": "e02974ad8332947a",
+              "en": "b1d02683d43cafd9"
+            },
+            "api-doc": {
+              "zh": "d08aee9a9ae66d1b",
+              "en": "ca9ef02126b2af61"
+            }
+          }
+        }
+      ],
+      "4": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "0041d1a4c47338ac",
+            "en": "6882cf8d310c6f9b"
+          },
+          "skills": {
+            "doc-structure": {
+              "zh": "e02974ad8332947a",
+              "en": "b1d02683d43cafd9"
+            },
+            "api-doc": {
+              "zh": "d08aee9a9ae66d1b",
+              "en": "ca9ef02126b2af61"
+            }
+          }
+        }
+      ],
+      "5": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "0041d1a4c47338ac",
+            "en": "6882cf8d310c6f9b"
+          },
+          "skills": {
+            "doc-structure": {
+              "zh": "e02974ad8332947a",
+              "en": "b1d02683d43cafd9"
+            },
+            "api-doc": {
+              "zh": "0f7c0c084bc8ec5d",
+              "en": "fe8625a38bfbe917"
+            }
+          }
+        },
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "always"
+          },
+          "norms": {
+            "zh": "0041d1a4c47338ac",
+            "en": "6882cf8d310c6f9b"
+          },
+          "skills": {
+            "doc-structure": {
+              "zh": "e02974ad8332947a",
+              "en": "b1d02683d43cafd9"
+            },
+            "api-doc": {
+              "zh": "d08aee9a9ae66d1b",
+              "en": "ca9ef02126b2af61"
+            }
+          }
+        }
+      ],
+      "6": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "always"
+          },
+          "norms": {
+            "zh": "0041d1a4c47338ac",
+            "en": "6882cf8d310c6f9b"
+          },
+          "skills": {
+            "doc-structure": {
+              "zh": "e02974ad8332947a",
+              "en": "b1d02683d43cafd9"
+            },
+            "api-doc": {
+              "zh": "0f7c0c084bc8ec5d",
+              "en": "fe8625a38bfbe917"
+            }
+          }
+        }
+      ]
+    },
+    "translator": {
+      "1": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "9e734b2fcc8a651e",
+            "en": "28875006539f9309"
+          },
+          "skills": {
+            "glossary": {
+              "zh": "36dd5c10a9f12ae9",
+              "en": "baf997f214d3bc61"
+            },
+            "translation-qa": {
+              "zh": "21bd141d9bb726fd",
+              "en": "48a5df55c46649f3"
+            },
+            "polish-edit": {
+              "zh": "c7ee452f16efa9dd",
+              "en": "8ef443790e292975"
+            }
+          }
+        }
+      ],
+      "2": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "ff902ee2d4d9d92c",
+            "en": "e0c55243b81509b7"
+          },
+          "skills": {
+            "glossary": {
+              "zh": "aa21cda297b10a02",
+              "en": "0c64358b5d2c394c"
+            },
+            "translation-qa": {
+              "zh": "fbf9c3df31de1b4b",
+              "en": "cb3a5d36762bbf74"
+            },
+            "polish-edit": {
+              "zh": "912c3fe6340043cf",
+              "en": "60d86d84997819e6"
+            }
+          }
+        }
+      ],
+      "3": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "2482b6803a77f88a",
+            "en": "bde1769d2ec18db0"
+          },
+          "skills": {
+            "glossary": {
+              "zh": "aa21cda297b10a02",
+              "en": "0c64358b5d2c394c"
+            },
+            "translation-qa": {
+              "zh": "fbf9c3df31de1b4b",
+              "en": "cb3a5d36762bbf74"
+            },
+            "polish-edit": {
+              "zh": "912c3fe6340043cf",
+              "en": "60d86d84997819e6"
+            }
+          }
+        }
+      ],
+      "4": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "2f7b831d42707824",
+            "en": "47e9d3baf9e30667"
+          },
+          "skills": {
+            "glossary": {
+              "zh": "aa21cda297b10a02",
+              "en": "0c64358b5d2c394c"
+            },
+            "translation-qa": {
+              "zh": "fbf9c3df31de1b4b",
+              "en": "cb3a5d36762bbf74"
+            },
+            "polish-edit": {
+              "zh": "912c3fe6340043cf",
+              "en": "60d86d84997819e6"
+            }
+          }
+        }
+      ],
+      "5": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "6503d477a1c5d843",
+            "en": "326953e3baa0fcf8"
+          },
+          "skills": {
+            "glossary": {
+              "zh": "aa21cda297b10a02",
+              "en": "0c64358b5d2c394c"
+            },
+            "translation-qa": {
+              "zh": "fbf9c3df31de1b4b",
+              "en": "cb3a5d36762bbf74"
+            },
+            "polish-edit": {
+              "zh": "912c3fe6340043cf",
+              "en": "60d86d84997819e6"
+            }
+          }
+        }
+      ],
+      "6": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "6503d477a1c5d843",
+            "en": "326953e3baa0fcf8"
+          },
+          "skills": {
+            "glossary": {
+              "zh": "aa21cda297b10a02",
+              "en": "0c64358b5d2c394c"
+            },
+            "translation-qa": {
+              "zh": "fbf9c3df31de1b4b",
+              "en": "cb3a5d36762bbf74"
+            },
+            "polish-edit": {
+              "zh": "912c3fe6340043cf",
+              "en": "60d86d84997819e6"
+            }
+          }
+        }
+      ],
+      "7": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "6503d477a1c5d843",
+            "en": "326953e3baa0fcf8"
+          },
+          "skills": {
+            "glossary": {
+              "zh": "aa21cda297b10a02",
+              "en": "0c64358b5d2c394c"
+            },
+            "translation-qa": {
+              "zh": "fbf9c3df31de1b4b",
+              "en": "cb3a5d36762bbf74"
+            },
+            "polish-edit": {
+              "zh": "912c3fe6340043cf",
+              "en": "60d86d84997819e6"
+            }
+          }
+        }
+      ],
+      "8": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "computer": "never",
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "6503d477a1c5d843",
+            "en": "326953e3baa0fcf8"
+          },
+          "skills": {
+            "glossary": {
+              "zh": "aa21cda297b10a02",
+              "en": "0c64358b5d2c394c"
+            },
+            "translation-qa": {
+              "zh": "fbf9c3df31de1b4b",
+              "en": "cb3a5d36762bbf74"
+            },
+            "polish-edit": {
+              "zh": "912c3fe6340043cf",
+              "en": "60d86d84997819e6"
+            }
+          }
+        }
+      ],
+      "9": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "computer": "never",
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "bc7644a93d167417",
+            "en": "c3c1ad884ebdb259"
+          },
+          "skills": {
+            "glossary": {
+              "zh": "aa21cda297b10a02",
+              "en": "0c64358b5d2c394c"
+            },
+            "translation-qa": {
+              "zh": "fbf9c3df31de1b4b",
+              "en": "cb3a5d36762bbf74"
+            },
+            "polish-edit": {
+              "zh": "912c3fe6340043cf",
+              "en": "60d86d84997819e6"
+            }
+          }
+        }
+      ],
+      "10": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "computer": "never",
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "4b1bd9e5adaf5aa2",
+            "en": "6e293dae66cd4e55"
+          },
+          "skills": {
+            "glossary": {
+              "zh": "aa21cda297b10a02",
+              "en": "0c64358b5d2c394c"
+            },
+            "translation-qa": {
+              "zh": "fbf9c3df31de1b4b",
+              "en": "cb3a5d36762bbf74"
+            },
+            "polish-edit": {
+              "zh": "912c3fe6340043cf",
+              "en": "60d86d84997819e6"
+            }
+          }
+        }
+      ]
+    },
+    "ui-ux-designer": {
+      "1": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "4d88b8db69f49907",
+            "en": "eaf1421b50667add"
+          },
+          "skills": {
+            "design-review": {
+              "zh": "9575f101fa45e4b3",
+              "en": "4814c11426c70c9b"
+            },
+            "interaction-spec": {
+              "zh": "9a697fa7c52825b4",
+              "en": "666d125a3aba4ca2"
+            },
+            "interview-synthesis": {
+              "zh": "d98b2be26f8c451f",
+              "en": "8f912f754f71100b"
+            }
+          }
+        }
+      ],
+      "2": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "0842b87c8d0b91c3",
+            "en": "84fdfa78a8d933f9"
+          },
+          "skills": {
+            "design-review": {
+              "zh": "9575f101fa45e4b3",
+              "en": "4814c11426c70c9b"
+            },
+            "interaction-spec": {
+              "zh": "9a697fa7c52825b4",
+              "en": "666d125a3aba4ca2"
+            },
+            "interview-synthesis": {
+              "zh": "d98b2be26f8c451f",
+              "en": "8f912f754f71100b"
+            },
+            "prototype-preview": {
+              "zh": "73adc05863521a6d",
+              "en": "e6a7e4eb1839b1ec"
+            }
+          }
+        }
+      ],
+      "3": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "cbe943bec37d29a1",
+            "en": "2b18ba47301bd9b5"
+          },
+          "skills": {
+            "design-review": {
+              "zh": "214a73df65d55f8d",
+              "en": "7f6f37a55cffff1a"
+            },
+            "interaction-spec": {
+              "zh": "5817e658bc9cc737",
+              "en": "21d6c6ba7d375f1b"
+            },
+            "interview-synthesis": {
+              "zh": "e58b6cd684882ebf",
+              "en": "a8a9936e80af788b"
+            },
+            "prototype-preview": {
+              "zh": "35a0edd74488937f",
+              "en": "93b0c5dbe98e2449"
+            }
+          }
+        }
+      ],
+      "4": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "ddd2a4a6f3b8de2f",
+            "en": "30f5329d4b215d6c"
+          },
+          "skills": {
+            "design-review": {
+              "zh": "214a73df65d55f8d",
+              "en": "7f6f37a55cffff1a"
+            },
+            "interaction-spec": {
+              "zh": "5817e658bc9cc737",
+              "en": "21d6c6ba7d375f1b"
+            },
+            "interview-synthesis": {
+              "zh": "e58b6cd684882ebf",
+              "en": "a8a9936e80af788b"
+            },
+            "prototype-preview": {
+              "zh": "35a0edd74488937f",
+              "en": "93b0c5dbe98e2449"
+            }
+          }
+        }
+      ],
+      "5": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "f61322f56bb9b585",
+            "en": "851c573fdd7ecf72"
+          },
+          "skills": {
+            "design-review": {
+              "zh": "214a73df65d55f8d",
+              "en": "7f6f37a55cffff1a"
+            },
+            "interaction-spec": {
+              "zh": "5817e658bc9cc737",
+              "en": "21d6c6ba7d375f1b"
+            },
+            "prototype-preview": {
+              "zh": "35a0edd74488937f",
+              "en": "93b0c5dbe98e2449"
+            }
+          }
+        }
+      ],
+      "6": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "always"
+          },
+          "norms": {
+            "zh": "f61322f56bb9b585",
+            "en": "851c573fdd7ecf72"
+          },
+          "skills": {
+            "design-review": {
+              "zh": "214a73df65d55f8d",
+              "en": "7f6f37a55cffff1a"
+            },
+            "interaction-spec": {
+              "zh": "5817e658bc9cc737",
+              "en": "21d6c6ba7d375f1b"
+            },
+            "prototype-preview": {
+              "zh": "35a0edd74488937f",
+              "en": "93b0c5dbe98e2449"
+            }
+          }
+        }
+      ]
+    },
+    "video-scriptwriter": {
+      "1": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "b6d457f11f6ff9a5",
+            "en": "54f7fc3b4cd13678"
+          },
+          "skills": {
+            "storyboard": {
+              "zh": "fddb93209f9dfdef",
+              "en": "cf4318a460d25ee5"
+            },
+            "image-brief": {
+              "zh": "9206ef01a7eb6f53",
+              "en": "e68f1032667b9139"
+            },
+            "copy-framework": {
+              "zh": "67ffa6e14d4853c1",
+              "en": "d9822dcbbcf5e096"
+            }
+          }
+        }
+      ],
+      "2": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "af8ef12c24fd37c9",
+            "en": "fea81e0e8718030f"
+          },
+          "skills": {
+            "storyboard": {
+              "zh": "a51c57e453445e49",
+              "en": "7ee35dcb1e165d09"
+            },
+            "image-brief": {
+              "zh": "2575b629ba43fc77",
+              "en": "4800fd9ecccdc69e"
+            },
+            "copy-framework": {
+              "zh": "8a00c438153ce5f3",
+              "en": "fc6ac80adcd493e4"
+            }
+          }
+        }
+      ],
+      "3": [
+        {
+          "thinkingLevel": "medium",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "e4b8cbdb4b4b4683",
+            "en": "d0ed3724986953f7"
+          },
+          "skills": {
+            "storyboard": {
+              "zh": "a51c57e453445e49",
+              "en": "7ee35dcb1e165d09"
+            },
+            "image-brief": {
+              "zh": "2575b629ba43fc77",
+              "en": "4800fd9ecccdc69e"
+            },
+            "copy-framework": {
+              "zh": "8a00c438153ce5f3",
+              "en": "fc6ac80adcd493e4"
+            }
+          }
+        }
+      ],
+      "4": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "9d12734fb032b309",
+            "en": "ef854caf97888ce0"
+          },
+          "skills": {
+            "storyboard": {
+              "zh": "a51c57e453445e49",
+              "en": "7ee35dcb1e165d09"
+            },
+            "image-brief": {
+              "zh": "2575b629ba43fc77",
+              "en": "4800fd9ecccdc69e"
+            },
+            "copy-framework": {
+              "zh": "8a00c438153ce5f3",
+              "en": "fc6ac80adcd493e4"
+            }
+          }
+        }
+      ],
+      "5": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "9d12734fb032b309",
+            "en": "ef854caf97888ce0"
+          },
+          "skills": {
+            "storyboard": {
+              "zh": "a51c57e453445e49",
+              "en": "7ee35dcb1e165d09"
+            },
+            "image-brief": {
+              "zh": "48067e663231c5e9",
+              "en": "1d70cc690a08f75c"
+            },
+            "copy-framework": {
+              "zh": "8a00c438153ce5f3",
+              "en": "fc6ac80adcd493e4"
+            }
+          }
+        }
+      ]
+    },
+    "tutor": {
+      "1": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never",
+            "write_file": "ask"
+          },
+          "norms": {
+            "zh": "f805263e212e6777",
+            "en": "2d95cd3556084880"
+          },
+          "skills": {
+            "source-notes": {
+              "zh": "db692559c072035d",
+              "en": "4ededb485c9897bd"
+            },
+            "glossary": {
+              "zh": "aa21cda297b10a02",
+              "en": "0c64358b5d2c394c"
+            }
+          }
+        }
+      ],
+      "2": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "f805263e212e6777",
+            "en": "2d95cd3556084880"
+          },
+          "skills": {
+            "source-notes": {
+              "zh": "db692559c072035d",
+              "en": "4ededb485c9897bd"
+            },
+            "glossary": {
+              "zh": "aa21cda297b10a02",
+              "en": "0c64358b5d2c394c"
+            }
+          }
+        }
+      ],
+      "3": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "f805263e212e6777",
+            "en": "2d95cd3556084880"
+          },
+          "skills": {
+            "glossary": {
+              "zh": "aa21cda297b10a02",
+              "en": "0c64358b5d2c394c"
+            }
+          }
+        }
+      ],
+      "5": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "4cdff15e740b7c8b",
+            "en": "3bae47cdaf38f8d9"
+          },
+          "skills": {
+            "interview-drill": {
+              "zh": "e4d195b60205edcd",
+              "en": "d898ca8d2b4fa8a7"
+            },
+            "study-plan": {
+              "zh": "882c3d77ed1a7347",
+              "en": "dbb0af5e32ad08bf"
+            }
+          }
+        }
+      ]
+    },
+    "presentation-designer": {
+      "1": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "cf6177f4fff27641",
+            "en": "c7704571fe3c5580"
+          },
+          "skills": {
+            "deck-storyline": {
+              "zh": "b016e6e50e3cfccc",
+              "en": "fffc2da8cf292aa7"
+            },
+            "deck-design-review": {
+              "zh": "e7142fafb6bd898a",
+              "en": "d967dfd019d2a509"
+            },
+            "deck-from-document": {
+              "zh": "763091bb57839bc0",
+              "en": "e36b40dd7bbbabed"
+            },
+            "deck-polish": {
+              "zh": "c2ad4bd5da6f5148",
+              "en": "ab1486db5af6ed1b"
+            }
+          }
+        }
+      ],
+      "2": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "cf6177f4fff27641",
+            "en": "c7704571fe3c5580"
+          },
+          "skills": {
+            "deck-storyline": {
+              "zh": "b016e6e50e3cfccc",
+              "en": "fffc2da8cf292aa7"
+            },
+            "deck-design-review": {
+              "zh": "e7142fafb6bd898a",
+              "en": "d967dfd019d2a509"
+            },
+            "deck-from-document": {
+              "zh": "b93d22050ef03877",
+              "en": "ae62f0645da45bd2"
+            },
+            "deck-polish": {
+              "zh": "c2ad4bd5da6f5148",
+              "en": "ab1486db5af6ed1b"
+            }
+          }
+        }
+      ],
+      "3": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "385012d217936bab",
+            "en": "846242b782cf5e77"
+          },
+          "skills": {
+            "deck-storyline": {
+              "zh": "b016e6e50e3cfccc",
+              "en": "fffc2da8cf292aa7"
+            },
+            "deck-design-review": {
+              "zh": "e7142fafb6bd898a",
+              "en": "d967dfd019d2a509"
+            },
+            "deck-from-document": {
+              "zh": "b93d22050ef03877",
+              "en": "ae62f0645da45bd2"
+            },
+            "deck-polish": {
+              "zh": "c2ad4bd5da6f5148",
+              "en": "ab1486db5af6ed1b"
+            }
+          }
+        }
+      ],
+      "4": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "ask"
+          },
+          "norms": {
+            "zh": "385012d217936bab",
+            "en": "846242b782cf5e77"
+          },
+          "skills": {
+            "deck-storyline": {
+              "zh": "b016e6e50e3cfccc",
+              "en": "fffc2da8cf292aa7"
+            },
+            "deck-design-review": {
+              "zh": "e7142fafb6bd898a",
+              "en": "d967dfd019d2a509"
+            },
+            "deck-from-document": {
+              "zh": "b93d22050ef03877",
+              "en": "ae62f0645da45bd2"
+            },
+            "deck-polish": {
+              "zh": "c2ad4bd5da6f5148",
+              "en": "ab1486db5af6ed1b"
+            },
+            "courseware-interaction": {
+              "zh": "6abef8f1a066fc39",
+              "en": "886300d30045cc69"
+            }
+          }
+        }
+      ],
+      "5": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "always"
+          },
+          "norms": {
+            "zh": "385012d217936bab",
+            "en": "846242b782cf5e77"
+          },
+          "skills": {
+            "deck-storyline": {
+              "zh": "b016e6e50e3cfccc",
+              "en": "fffc2da8cf292aa7"
+            },
+            "deck-design-review": {
+              "zh": "e7142fafb6bd898a",
+              "en": "d967dfd019d2a509"
+            },
+            "deck-from-document": {
+              "zh": "b93d22050ef03877",
+              "en": "ae62f0645da45bd2"
+            },
+            "deck-polish": {
+              "zh": "c2ad4bd5da6f5148",
+              "en": "ab1486db5af6ed1b"
+            },
+            "courseware-interaction": {
+              "zh": "6abef8f1a066fc39",
+              "en": "886300d30045cc69"
+            }
+          }
+        }
+      ],
+      "8": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "always"
+          },
+          "norms": {
+            "zh": "302c7dce4afe0bf2",
+            "en": "149a2a5398eaf058"
+          },
+          "skills": {
+            "deck-storyline": {
+              "zh": "b016e6e50e3cfccc",
+              "en": "fffc2da8cf292aa7"
+            },
+            "deck-design-review": {
+              "zh": "e7142fafb6bd898a",
+              "en": "d967dfd019d2a509"
+            },
+            "deck-from-document": {
+              "zh": "b93d22050ef03877",
+              "en": "ae62f0645da45bd2"
+            },
+            "deck-polish": {
+              "zh": "8d98ad921439eb8f",
+              "en": "409f03883e1815fb"
+            },
+            "courseware-interaction": {
+              "zh": "6abef8f1a066fc39",
+              "en": "886300d30045cc69"
+            }
+          }
+        }
+      ],
+      "9": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "always"
+          },
+          "norms": {
+            "zh": "901a8f284e9373ae",
+            "en": "6ea85a8355e89278"
+          },
+          "skills": {
+            "deck-storyline": {
+              "zh": "b016e6e50e3cfccc",
+              "en": "fffc2da8cf292aa7"
+            },
+            "deck-design-review": {
+              "zh": "e7142fafb6bd898a",
+              "en": "d967dfd019d2a509"
+            },
+            "deck-from-document": {
+              "zh": "b93d22050ef03877",
+              "en": "ae62f0645da45bd2"
+            },
+            "deck-polish": {
+              "zh": "8d98ad921439eb8f",
+              "en": "409f03883e1815fb"
+            },
+            "courseware-interaction": {
+              "zh": "6abef8f1a066fc39",
+              "en": "886300d30045cc69"
+            }
+          }
+        }
+      ],
+      "10": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "always"
+          },
+          "norms": {
+            "zh": "27c87caa2d29eabe",
+            "en": "1f107216d1928b68"
+          },
+          "skills": {
+            "deck-storyline": {
+              "zh": "b016e6e50e3cfccc",
+              "en": "fffc2da8cf292aa7"
+            },
+            "deck-design-review": {
+              "zh": "e7142fafb6bd898a",
+              "en": "d967dfd019d2a509"
+            },
+            "deck-from-document": {
+              "zh": "b93d22050ef03877",
+              "en": "ae62f0645da45bd2"
+            },
+            "deck-polish": {
+              "zh": "8d98ad921439eb8f",
+              "en": "409f03883e1815fb"
+            },
+            "courseware-interaction": {
+              "zh": "6abef8f1a066fc39",
+              "en": "886300d30045cc69"
+            },
+            "deck-review": {
+              "zh": "12901005390f9aca",
+              "en": "be31376f54dd1574"
+            }
+          }
+        }
+      ],
+      "11": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "always"
+          },
+          "norms": {
+            "zh": "27c87caa2d29eabe",
+            "en": "1f107216d1928b68"
+          },
+          "skills": {
+            "deck-storyline": {
+              "zh": "b016e6e50e3cfccc",
+              "en": "fffc2da8cf292aa7"
+            },
+            "deck-design-review": {
+              "zh": "e7142fafb6bd898a",
+              "en": "d967dfd019d2a509"
+            },
+            "deck-from-document": {
+              "zh": "b93d22050ef03877",
+              "en": "ae62f0645da45bd2"
+            },
+            "deck-polish": {
+              "zh": "8d98ad921439eb8f",
+              "en": "409f03883e1815fb"
+            },
+            "courseware-interaction": {
+              "zh": "6abef8f1a066fc39",
+              "en": "886300d30045cc69"
+            },
+            "deck-review": {
+              "zh": "0a3d188df39cbbd2",
+              "en": "e1aea4c492020183"
+            }
+          }
+        }
+      ]
+    },
+    "plugin-builder": {
+      "1": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "always"
+          },
+          "norms": {
+            "zh": "a940503448545594",
+            "en": "e588962395852e70"
+          },
+          "skills": {
+            "plugin-building": {
+              "zh": "9c27191275a84c37",
+              "en": "b0b67e3eeba48c9c"
+            },
+            "plugin-review": {
+              "zh": "a895f3870138c44a",
+              "en": "88b78a87fb476243"
+            }
+          }
+        },
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "always"
+          },
+          "norms": {
+            "zh": "a940503448545594",
+            "en": "e588962395852e70"
+          },
+          "skills": {
+            "plugin-building": {
+              "zh": "d026289cf65afad8",
+              "en": "743bcdd6487c021e"
+            },
+            "plugin-review": {
+              "zh": "a895f3870138c44a",
+              "en": "88b78a87fb476243"
+            }
+          }
+        }
+      ],
+      "4": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "always"
+          },
+          "norms": {
+            "zh": "c2e64a1284daf669",
+            "en": "9e5bfb631ac2e97c"
+          },
+          "skills": {
+            "plugin-building": {
+              "zh": "03db58a8803c899f",
+              "en": "91c469850443d2b4"
+            },
+            "plugin-review": {
+              "zh": "a59f937df88aee41",
+              "en": "243eb92499cfce6f"
+            }
+          }
+        }
+      ],
+      "5": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "always"
+          },
+          "norms": {
+            "zh": "c2e64a1284daf669",
+            "en": "9e5bfb631ac2e97c"
+          },
+          "skills": {
+            "plugin-building": {
+              "zh": "edf1e9adc9a01a1f",
+              "en": "ad342514318b37b4"
+            },
+            "plugin-review": {
+              "zh": "a59f937df88aee41",
+              "en": "243eb92499cfce6f"
+            }
+          }
+        }
+      ],
+      "6": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "always"
+          },
+          "norms": {
+            "zh": "c8a5ae78d4c81dea",
+            "en": "cebfd772b51efecf"
+          },
+          "skills": {
+            "plugin-building": {
+              "zh": "06f563e40293f72d",
+              "en": "c982eed158e46c24"
+            },
+            "plugin-review": {
+              "zh": "2b71e98a7a122e32",
+              "en": "c35196ca76616bff"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "groups": {
+    "content-studio": {
+      "1": [
+        {
+          "name": {
+            "zh": "内容工作室",
+            "en": "Content Studio"
+          },
+          "coordinator": "social-media",
+          "members": ["social-media", "copywriter", "image-designer"],
+          "announcement": {
+            "zh": "9581f5673e216470",
+            "en": "2bcc8db8b1c8c7a3"
+          },
+          "quickStarts": {
+            "zh": "8b45196a3b38586d",
+            "en": "931c19e3711340bd"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "2": [
+        {
+          "name": {
+            "zh": "内容工作室",
+            "en": "Content Studio"
+          },
+          "coordinator": "social-media",
+          "members": ["social-media", "copywriter", "image-designer"],
+          "announcement": {
+            "zh": "9581f5673e216470",
+            "en": "2bcc8db8b1c8c7a3"
+          },
+          "quickStarts": {
+            "zh": "8b45196a3b38586d",
+            "en": "931c19e3711340bd"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "3": [
+        {
+          "name": {
+            "zh": "内容工作室",
+            "en": "Content Studio"
+          },
+          "coordinator": "social-media",
+          "members": ["social-media", "copywriter", "image-designer"],
+          "announcement": {
+            "zh": "c44c1b1297220453",
+            "en": "50fdd04da5461e4d"
+          },
+          "quickStarts": {
+            "zh": "8b45196a3b38586d",
+            "en": "931c19e3711340bd"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "4": [
+        {
+          "name": {
+            "zh": "内容工作室",
+            "en": "Content Studio"
+          },
+          "coordinator": "social-media",
+          "members": ["social-media", "copywriter", "image-designer"],
+          "announcement": {
+            "zh": "a388521cc9f3f2ee",
+            "en": "01c1c90728057893"
+          },
+          "quickStarts": {
+            "zh": "8b45196a3b38586d",
+            "en": "931c19e3711340bd"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "5": [
+        {
+          "name": {
+            "zh": "内容工作室",
+            "en": "Content Studio"
+          },
+          "coordinator": "social-media",
+          "members": ["social-media", "copywriter", "image-designer"],
+          "announcement": {
+            "zh": "c73c230ce2a42b5a",
+            "en": "89a6bd7656ca4c36"
+          },
+          "quickStarts": {
+            "zh": "8b45196a3b38586d",
+            "en": "931c19e3711340bd"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "6": [
+        {
+          "name": {
+            "zh": "内容增长组",
+            "en": "Content & Growth"
+          },
+          "coordinator": "social-media",
+          "members": ["social-media", "copywriter", "image-designer", "data-analyst"],
+          "announcement": {
+            "zh": "59c49015f9e25e73",
+            "en": "c2ea1187e8edd9ed"
+          },
+          "quickStarts": {
+            "zh": "bd21104d0517c566",
+            "en": "0dc097860b57b8ac"
+          },
+          "autoRoundLimit": 3
+        }
+      ]
+    },
+    "dev-squad": {
+      "1": [
+        {
+          "name": {
+            "zh": "软件开发小队",
+            "en": "Dev Squad"
+          },
+          "coordinator": "project-manager",
+          "members": [
+            "project-manager",
+            "frontend-dev",
+            "backend-dev",
+            "qa-engineer",
+            "code-reviewer"
+          ],
+          "announcement": {
+            "zh": "f9f52273bebfabdb",
+            "en": "c8ee04e8c11fb418"
+          },
+          "quickStarts": {
+            "zh": "6af4de5fba6325d8",
+            "en": "2083953d94b721a9"
+          },
+          "autoRoundLimit": 4
+        }
+      ],
+      "2": [
+        {
+          "name": {
+            "zh": "软件开发小队",
+            "en": "Dev Squad"
+          },
+          "coordinator": "project-manager",
+          "members": [
+            "project-manager",
+            "frontend-dev",
+            "backend-dev",
+            "qa-engineer",
+            "code-reviewer"
+          ],
+          "announcement": {
+            "zh": "f9f52273bebfabdb",
+            "en": "c8ee04e8c11fb418"
+          },
+          "quickStarts": {
+            "zh": "6af4de5fba6325d8",
+            "en": "2083953d94b721a9"
+          },
+          "autoRoundLimit": 4
+        }
+      ],
+      "3": [
+        {
+          "name": {
+            "zh": "软件开发小队",
+            "en": "Dev Squad"
+          },
+          "coordinator": "project-manager",
+          "members": [
+            "project-manager",
+            "frontend-dev",
+            "backend-dev",
+            "qa-engineer",
+            "code-reviewer"
+          ],
+          "announcement": {
+            "zh": "811db638792b6a72",
+            "en": "d1530a6d3f3cf8c0"
+          },
+          "quickStarts": {
+            "zh": "6af4de5fba6325d8",
+            "en": "2083953d94b721a9"
+          },
+          "autoRoundLimit": 4
+        }
+      ],
+      "4": [
+        {
+          "name": {
+            "zh": "软件开发小队",
+            "en": "Dev Squad"
+          },
+          "coordinator": "project-manager",
+          "members": [
+            "project-manager",
+            "frontend-dev",
+            "backend-dev",
+            "qa-engineer",
+            "code-reviewer"
+          ],
+          "announcement": {
+            "zh": "811db638792b6a72",
+            "en": "d1530a6d3f3cf8c0"
+          },
+          "quickStarts": {
+            "zh": "6af4de5fba6325d8",
+            "en": "2083953d94b721a9"
+          },
+          "autoRoundLimit": 4
+        }
+      ]
+    },
+    "growth-team": {
+      "1": [
+        {
+          "name": {
+            "zh": "增长营销组",
+            "en": "Growth Team"
+          },
+          "coordinator": "social-media",
+          "members": ["social-media", "copywriter", "data-analyst"],
+          "announcement": {
+            "zh": "b5b7d25c2ea907ae",
+            "en": "025db58ec3c3be3c"
+          },
+          "quickStarts": {
+            "zh": "6cf698eebf0237e7",
+            "en": "f99b97d069b25190"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "2": [
+        {
+          "name": {
+            "zh": "增长营销组",
+            "en": "Growth Team"
+          },
+          "coordinator": "social-media",
+          "members": ["social-media", "copywriter", "data-analyst"],
+          "announcement": {
+            "zh": "b5b7d25c2ea907ae",
+            "en": "025db58ec3c3be3c"
+          },
+          "quickStarts": {
+            "zh": "6cf698eebf0237e7",
+            "en": "f99b97d069b25190"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "3": [
+        {
+          "name": {
+            "zh": "增长营销组",
+            "en": "Growth Team"
+          },
+          "coordinator": "social-media",
+          "members": ["social-media", "copywriter", "data-analyst"],
+          "announcement": {
+            "zh": "3d56aebc742741a4",
+            "en": "9d921fe3bd569348"
+          },
+          "quickStarts": {
+            "zh": "6cf698eebf0237e7",
+            "en": "f99b97d069b25190"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "4": [
+        {
+          "name": {
+            "zh": "增长营销组",
+            "en": "Growth Team"
+          },
+          "coordinator": "social-media",
+          "members": ["social-media", "copywriter", "data-analyst"],
+          "announcement": {
+            "zh": "3d56aebc742741a4",
+            "en": "9d921fe3bd569348"
+          },
+          "quickStarts": {
+            "zh": "6cf698eebf0237e7",
+            "en": "f99b97d069b25190"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "5": [
+        {
+          "name": {
+            "zh": "增长营销组",
+            "en": "Growth Team"
+          },
+          "coordinator": "social-media",
+          "members": ["social-media", "copywriter", "data-analyst"],
+          "announcement": {
+            "zh": "3d56aebc742741a4",
+            "en": "9d921fe3bd569348"
+          },
+          "quickStarts": {
+            "zh": "6cf698eebf0237e7",
+            "en": "f99b97d069b25190"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "6": [
+        {
+          "name": {
+            "zh": "增长营销组",
+            "en": "Growth Team"
+          },
+          "coordinator": "social-media",
+          "members": ["social-media", "copywriter", "data-analyst"],
+          "announcement": {
+            "zh": "3d56aebc742741a4",
+            "en": "9d921fe3bd569348"
+          },
+          "quickStarts": {
+            "zh": "6cf698eebf0237e7",
+            "en": "f99b97d069b25190"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "7": [
+        {
+          "name": {
+            "zh": "增长营销组",
+            "en": "Growth Team"
+          },
+          "coordinator": "social-media",
+          "members": ["social-media", "copywriter", "data-analyst"],
+          "announcement": {
+            "zh": "3d56aebc742741a4",
+            "en": "9d921fe3bd569348"
+          },
+          "quickStarts": {
+            "zh": "6cf698eebf0237e7",
+            "en": "f99b97d069b25190"
+          },
+          "autoRoundLimit": 3
+        }
+      ]
+    },
+    "product-team": {
+      "1": [
+        {
+          "name": {
+            "zh": "产品研发小组",
+            "en": "Product Team"
+          },
+          "coordinator": "product-manager",
+          "members": ["product-manager", "ui-ux-designer", "fullstack-dev", "qa-engineer"],
+          "announcement": {
+            "zh": "5610f61ff23c96c8",
+            "en": "340db588e3520add"
+          },
+          "quickStarts": {
+            "zh": "1779427b0e65ed2b",
+            "en": "d980ceceede3f0c4"
+          },
+          "autoRoundLimit": 4
+        }
+      ],
+      "2": [
+        {
+          "name": {
+            "zh": "产品研发小组",
+            "en": "Product Team"
+          },
+          "coordinator": "product-manager",
+          "members": ["product-manager", "ui-ux-designer", "fullstack-dev", "qa-engineer"],
+          "announcement": {
+            "zh": "5610f61ff23c96c8",
+            "en": "08a7a60163ca5d3d"
+          },
+          "quickStarts": {
+            "zh": "1779427b0e65ed2b",
+            "en": "d980ceceede3f0c4"
+          },
+          "autoRoundLimit": 4
+        }
+      ],
+      "3": [
+        {
+          "name": {
+            "zh": "产品研发小组",
+            "en": "Product Team"
+          },
+          "coordinator": "product-manager",
+          "members": ["product-manager", "ui-ux-designer", "fullstack-dev", "qa-engineer"],
+          "announcement": {
+            "zh": "5610f61ff23c96c8",
+            "en": "08a7a60163ca5d3d"
+          },
+          "quickStarts": {
+            "zh": "1779427b0e65ed2b",
+            "en": "d980ceceede3f0c4"
+          },
+          "autoRoundLimit": 4
+        }
+      ],
+      "4": [
+        {
+          "name": {
+            "zh": "产品研发小组",
+            "en": "Product Team"
+          },
+          "coordinator": "product-manager",
+          "members": ["product-manager", "ui-ux-designer", "fullstack-dev", "qa-engineer"],
+          "announcement": {
+            "zh": "9cc6a9bcedb782d6",
+            "en": "6d5c667d619d3ea2"
+          },
+          "quickStarts": {
+            "zh": "1779427b0e65ed2b",
+            "en": "d980ceceede3f0c4"
+          },
+          "autoRoundLimit": 4
+        }
+      ],
+      "5": [
+        {
+          "name": {
+            "zh": "产品研发小组",
+            "en": "Product Team"
+          },
+          "coordinator": "product-manager",
+          "members": ["product-manager", "ui-ux-designer", "fullstack-dev", "qa-engineer"],
+          "announcement": {
+            "zh": "9cc6a9bcedb782d6",
+            "en": "6d5c667d619d3ea2"
+          },
+          "quickStarts": {
+            "zh": "1779427b0e65ed2b",
+            "en": "d980ceceede3f0c4"
+          },
+          "autoRoundLimit": 4
+        }
+      ],
+      "6": [
+        {
+          "name": {
+            "zh": "产品研发小组",
+            "en": "Product Team"
+          },
+          "coordinator": "product-manager",
+          "members": ["product-manager", "ui-ux-designer", "fullstack-dev", "qa-engineer"],
+          "announcement": {
+            "zh": "9cc6a9bcedb782d6",
+            "en": "6d5c667d619d3ea2"
+          },
+          "quickStarts": {
+            "zh": "1779427b0e65ed2b",
+            "en": "d980ceceede3f0c4"
+          },
+          "autoRoundLimit": 4
+        }
+      ],
+      "7": [
+        {
+          "name": {
+            "zh": "产品研发小组",
+            "en": "Product Team"
+          },
+          "coordinator": "project-manager",
+          "members": [
+            "project-manager",
+            "product-manager",
+            "ui-ux-designer",
+            "fullstack-dev",
+            "qa-engineer"
+          ],
+          "announcement": {
+            "zh": "24691ee6b13d04fb",
+            "en": "c4ee787dd9a87b80"
+          },
+          "quickStarts": {
+            "zh": "1779427b0e65ed2b",
+            "en": "d980ceceede3f0c4"
+          },
+          "autoRoundLimit": 4
+        }
+      ],
+      "8": [
+        {
+          "name": {
+            "zh": "产品研发组",
+            "en": "Product Team"
+          },
+          "coordinator": "project-manager",
+          "members": [
+            "project-manager",
+            "product-manager",
+            "ui-ux-designer",
+            "fullstack-dev",
+            "qa-engineer",
+            "code-reviewer"
+          ],
+          "announcement": {
+            "zh": "09df8bb2bb51da63",
+            "en": "133cc10591bead25"
+          },
+          "quickStarts": {
+            "zh": "0b992afd0cf44255",
+            "en": "3a002e720ff5e065"
+          },
+          "autoRoundLimit": 4
+        }
+      ]
+    },
+    "research-group": {
+      "1": [
+        {
+          "name": {
+            "zh": "研究小组",
+            "en": "Research Group"
+          },
+          "coordinator": "researcher",
+          "members": ["researcher", "data-analyst", "copywriter"],
+          "announcement": {
+            "zh": "4299e412d80f2f51",
+            "en": "e54bf9f1683767dc"
+          },
+          "quickStarts": {
+            "zh": "7ea19e44bc5facea",
+            "en": "517d0e923130e4bc"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "2": [
+        {
+          "name": {
+            "zh": "研究小组",
+            "en": "Research Group"
+          },
+          "coordinator": "researcher",
+          "members": ["researcher", "data-analyst", "copywriter"],
+          "announcement": {
+            "zh": "4299e412d80f2f51",
+            "en": "e54bf9f1683767dc"
+          },
+          "quickStarts": {
+            "zh": "7ea19e44bc5facea",
+            "en": "517d0e923130e4bc"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "3": [
+        {
+          "name": {
+            "zh": "研究小组",
+            "en": "Research Group"
+          },
+          "coordinator": "researcher",
+          "members": ["researcher", "data-analyst", "copywriter"],
+          "announcement": {
+            "zh": "e64ad9ed3a31174b",
+            "en": "090b70a4350f52b7"
+          },
+          "quickStarts": {
+            "zh": "7ea19e44bc5facea",
+            "en": "517d0e923130e4bc"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "4": [
+        {
+          "name": {
+            "zh": "研究小组",
+            "en": "Research Group"
+          },
+          "coordinator": "researcher",
+          "members": ["researcher", "data-analyst"],
+          "announcement": {
+            "zh": "d739f14aa7c8b925",
+            "en": "49365014d212788c"
+          },
+          "quickStarts": {
+            "zh": "515c2a4c01208ddd",
+            "en": "e600b41384f2cd80"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "5": [
+        {
+          "name": {
+            "zh": "研究小组",
+            "en": "Research Group"
+          },
+          "coordinator": "researcher",
+          "members": ["researcher", "data-analyst"],
+          "announcement": {
+            "zh": "f5ffb9626eee39a2",
+            "en": "c7f6dbc70c680ef1"
+          },
+          "quickStarts": {
+            "zh": "515c2a4c01208ddd",
+            "en": "e600b41384f2cd80"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "6": [
+        {
+          "name": {
+            "zh": "研究小组",
+            "en": "Research Group"
+          },
+          "coordinator": "researcher",
+          "members": ["researcher", "data-analyst"],
+          "announcement": {
+            "zh": "f5ffb9626eee39a2",
+            "en": "c7f6dbc70c680ef1"
+          },
+          "quickStarts": {
+            "zh": "515c2a4c01208ddd",
+            "en": "e600b41384f2cd80"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "7": [
+        {
+          "name": {
+            "zh": "研究小组",
+            "en": "Research Group"
+          },
+          "coordinator": "researcher",
+          "members": ["researcher", "data-analyst"],
+          "announcement": {
+            "zh": "f5ffb9626eee39a2",
+            "en": "c7f6dbc70c680ef1"
+          },
+          "quickStarts": {
+            "zh": "515c2a4c01208ddd",
+            "en": "e600b41384f2cd80"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "8": [
+        {
+          "name": {
+            "zh": "研究小组",
+            "en": "Research Group"
+          },
+          "coordinator": "researcher",
+          "members": ["researcher", "data-analyst"],
+          "announcement": {
+            "zh": "f5ffb9626eee39a2",
+            "en": "c7f6dbc70c680ef1"
+          },
+          "quickStarts": {
+            "zh": "91f954e8f9ea1e58",
+            "en": "a83e2dfe07c8393c"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "9": [
+        {
+          "name": {
+            "zh": "研究小组",
+            "en": "Research Group"
+          },
+          "coordinator": "researcher",
+          "members": ["researcher", "data-analyst"],
+          "announcement": {
+            "zh": "eda264fcb4b0358f",
+            "en": "1cdbe3e6a84dc81b"
+          },
+          "quickStarts": {
+            "zh": "fb46cfa705940a51",
+            "en": "f7acdbe878621c92"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "10": [
+        {
+          "name": {
+            "zh": "研究小组",
+            "en": "Research Group"
+          },
+          "coordinator": "researcher",
+          "members": ["researcher", "data-analyst"],
+          "announcement": {
+            "zh": "f0abce2726fdded4",
+            "en": "c04be1d9f5858ab9"
+          },
+          "quickStarts": {
+            "zh": "c9fdb2401e7b3f33",
+            "en": "7e7e33094946525e"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "11": [
+        {
+          "name": {
+            "zh": "研究小组",
+            "en": "Research Group"
+          },
+          "coordinator": "researcher",
+          "members": ["researcher", "data-analyst", "presentation-designer"],
+          "announcement": {
+            "zh": "752c20e930aba2c7",
+            "en": "0c331f03fb3f0c30"
+          },
+          "quickStarts": {
+            "zh": "c9fdb2401e7b3f33",
+            "en": "7e7e33094946525e"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "12": [
+        {
+          "name": {
+            "zh": "研究小组",
+            "en": "Research Group"
+          },
+          "coordinator": "researcher",
+          "members": ["researcher", "data-analyst", "presentation-designer"],
+          "announcement": {
+            "zh": "752c20e930aba2c7",
+            "en": "0c331f03fb3f0c30"
+          },
+          "quickStarts": {
+            "zh": "c9fdb2401e7b3f33",
+            "en": "7e7e33094946525e"
+          },
+          "autoRoundLimit": 3
+        },
+        {
+          "name": {
+            "zh": "研究小组",
+            "en": "Research Group"
+          },
+          "coordinator": "researcher",
+          "members": ["researcher", "data-analyst", "presentation-designer"],
+          "announcement": {
+            "zh": "752c20e930aba2c7",
+            "en": "f21f7353653e25c4"
+          },
+          "quickStarts": {
+            "zh": "c9fdb2401e7b3f33",
+            "en": "7e7e33094946525e"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "13": [
+        {
+          "name": {
+            "zh": "研究小组",
+            "en": "Research Group"
+          },
+          "coordinator": "researcher",
+          "members": ["researcher", "data-analyst", "presentation-designer"],
+          "announcement": {
+            "zh": "752c20e930aba2c7",
+            "en": "f21f7353653e25c4"
+          },
+          "quickStarts": {
+            "zh": "c9fdb2401e7b3f33",
+            "en": "7e7e33094946525e"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "14": [
+        {
+          "name": {
+            "zh": "研究小组",
+            "en": "Research Group"
+          },
+          "coordinator": "researcher",
+          "members": ["researcher", "data-analyst", "presentation-designer"],
+          "announcement": {
+            "zh": "6285eeb58b016ff4",
+            "en": "0e30f6bc755248ca"
+          },
+          "quickStarts": {
+            "zh": "c9fdb2401e7b3f33",
+            "en": "7e7e33094946525e"
+          },
+          "autoRoundLimit": 3
+        }
+      ]
+    },
+    "study-group": {
+      "1": [
+        {
+          "name": {
+            "zh": "学习小组",
+            "en": "Study Group"
+          },
+          "coordinator": "researcher",
+          "members": ["researcher", "copywriter", "translator"],
+          "announcement": {
+            "zh": "0e25463cc51a48c8",
+            "en": "c88ff332482654c1"
+          },
+          "quickStarts": {
+            "zh": "43dba059faa69284",
+            "en": "62e45787eceafb73"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "2": [
+        {
+          "name": {
+            "zh": "学习小组",
+            "en": "Study Group"
+          },
+          "coordinator": "researcher",
+          "members": ["researcher", "copywriter", "translator"],
+          "announcement": {
+            "zh": "0e25463cc51a48c8",
+            "en": "c88ff332482654c1"
+          },
+          "quickStarts": {
+            "zh": "43dba059faa69284",
+            "en": "62e45787eceafb73"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "3": [
+        {
+          "name": {
+            "zh": "学习小组",
+            "en": "Study Group"
+          },
+          "coordinator": "tutor",
+          "members": ["tutor", "researcher"],
+          "announcement": {
+            "zh": "f57a0281ba39f004",
+            "en": "a6e41f8533d76d2c"
+          },
+          "quickStarts": {
+            "zh": "43dba059faa69284",
+            "en": "62e45787eceafb73"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "4": [
+        {
+          "name": {
+            "zh": "学习小组",
+            "en": "Study Group"
+          },
+          "coordinator": "tutor",
+          "members": ["tutor", "researcher"],
+          "announcement": {
+            "zh": "f57a0281ba39f004",
+            "en": "a6e41f8533d76d2c"
+          },
+          "quickStarts": {
+            "zh": "43dba059faa69284",
+            "en": "62e45787eceafb73"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "5": [
+        {
+          "name": {
+            "zh": "学习小组",
+            "en": "Study Group"
+          },
+          "coordinator": "tutor",
+          "members": ["tutor", "researcher"],
+          "announcement": {
+            "zh": "f57a0281ba39f004",
+            "en": "a6e41f8533d76d2c"
+          },
+          "quickStarts": {
+            "zh": "43dba059faa69284",
+            "en": "62e45787eceafb73"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "6": [
+        {
+          "name": {
+            "zh": "学习小组",
+            "en": "Study Group"
+          },
+          "coordinator": "tutor",
+          "members": ["tutor", "researcher"],
+          "announcement": {
+            "zh": "d260400e2f19c100",
+            "en": "9f9d0ebc41d2c967"
+          },
+          "quickStarts": {
+            "zh": "b99b362fad85139a",
+            "en": "42eb5ac2854b8af7"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "7": [
+        {
+          "name": {
+            "zh": "学习小组",
+            "en": "Study Group"
+          },
+          "coordinator": "tutor",
+          "members": ["tutor", "researcher"],
+          "announcement": {
+            "zh": "d260400e2f19c100",
+            "en": "9f9d0ebc41d2c967"
+          },
+          "quickStarts": {
+            "zh": "b99b362fad85139a",
+            "en": "42eb5ac2854b8af7"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "8": [
+        {
+          "name": {
+            "zh": "学习小组",
+            "en": "Study Group"
+          },
+          "coordinator": "tutor",
+          "members": ["tutor", "researcher"],
+          "announcement": {
+            "zh": "d260400e2f19c100",
+            "en": "9f9d0ebc41d2c967"
+          },
+          "quickStarts": {
+            "zh": "b99b362fad85139a",
+            "en": "42eb5ac2854b8af7"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "9": [
+        {
+          "name": {
+            "zh": "学习小组",
+            "en": "Study Group"
+          },
+          "coordinator": "tutor",
+          "members": ["tutor", "researcher"],
+          "announcement": {
+            "zh": "d260400e2f19c100",
+            "en": "9f9d0ebc41d2c967"
+          },
+          "quickStarts": {
+            "zh": "b99b362fad85139a",
+            "en": "42eb5ac2854b8af7"
+          },
+          "autoRoundLimit": 3
+        }
+      ]
+    },
+    "dev-lite": {
+      "1": [
+        {
+          "name": {
+            "zh": "轻量开发组",
+            "en": "Lean Dev Team"
+          },
+          "coordinator": "fullstack-dev",
+          "members": ["fullstack-dev", "qa-engineer", "code-reviewer"],
+          "announcement": {
+            "zh": "660cf26c8fc78fe4",
+            "en": "1a88f7256896de5d"
+          },
+          "quickStarts": {
+            "zh": "c3835397fe2e2650",
+            "en": "91db36c04d1f8ed1"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "2": [
+        {
+          "name": {
+            "zh": "轻量开发组",
+            "en": "Lean Dev Team"
+          },
+          "coordinator": "fullstack-dev",
+          "members": ["fullstack-dev", "qa-engineer", "code-reviewer"],
+          "announcement": {
+            "zh": "594260c21d3886e8",
+            "en": "9375333d258a1c7d"
+          },
+          "quickStarts": {
+            "zh": "c3835397fe2e2650",
+            "en": "91db36c04d1f8ed1"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "3": [
+        {
+          "name": {
+            "zh": "轻量开发组",
+            "en": "Lean Dev Team"
+          },
+          "coordinator": "fullstack-dev",
+          "members": ["fullstack-dev", "qa-engineer", "code-reviewer"],
+          "announcement": {
+            "zh": "594260c21d3886e8",
+            "en": "9375333d258a1c7d"
+          },
+          "quickStarts": {
+            "zh": "c3835397fe2e2650",
+            "en": "91db36c04d1f8ed1"
+          },
+          "autoRoundLimit": 3
+        }
+      ]
+    }
+  },
+  "skills": {
+    "bugfix-flow": {
+      "0": [
+        {
+          "zh": "72db49c06298a088",
+          "en": "8930fb3c3c237dfb"
+        },
+        {
+          "zh": "8a26c4b46ac21754",
+          "en": "787b04c389f91028"
+        }
+      ]
+    },
+    "api-design-review": {
+      "0": [
+        {
+          "zh": "351c7c15b66b0ce3",
+          "en": "7c6ee744bfe02075"
+        },
+        {
+          "zh": "83d2d9a96aebe6b6",
+          "en": "edd70ea1a7990151"
+        }
+      ]
+    },
+    "commit-message": {
+      "0": [
+        {
+          "zh": "dd95539f76dc140b",
+          "en": "029bf14963d61f29"
+        },
+        {
+          "zh": "9cd5fab355d1310e",
+          "en": "1112f23eb00bfe6a"
+        }
+      ]
+    },
+    "code-review-checklist": {
+      "0": [
+        {
+          "zh": "385f1d761cf5c4ad",
+          "en": "8929cd3ffc237806"
+        },
+        {
+          "zh": "cf2042a10a5891a4",
+          "en": "12b15f2a739bc106"
+        }
+      ],
+      "1": [
+        {
+          "zh": "397517470c69cfa2",
+          "en": "64417b381d481814"
+        }
+      ]
+    },
+    "security-review": {
+      "0": [
+        {
+          "zh": "648532345f66bb0a",
+          "en": "e01c291c1c76f010"
+        },
+        {
+          "zh": "5c9c436bbbae1f8e",
+          "en": "a12fe7be01b2de71"
+        }
+      ]
+    },
+    "copy-framework": {
+      "0": [
+        {
+          "zh": "67ffa6e14d4853c1",
+          "en": "d9822dcbbcf5e096"
+        },
+        {
+          "zh": "8a00c438153ce5f3",
+          "en": "fc6ac80adcd493e4"
+        }
+      ]
+    },
+    "polish-edit": {
+      "0": [
+        {
+          "zh": "c7ee452f16efa9dd",
+          "en": "8ef443790e292975"
+        },
+        {
+          "zh": "912c3fe6340043cf",
+          "en": "60d86d84997819e6"
+        }
+      ]
+    },
+    "csv-profile": {
+      "0": [
+        {
+          "zh": "8f5e80291987fd5c",
+          "en": "c72d047eb6a28296"
+        },
+        {
+          "zh": "9a035feb99fa0d29",
+          "en": "2d7df5060dca67aa"
+        }
+      ],
+      "1": [
+        {
+          "zh": "75d40694e946c476",
+          "en": "c010613621ebd8e7"
+        }
+      ]
+    },
+    "analysis-report": {
+      "0": [
+        {
+          "zh": "686d1148fd9f175c",
+          "en": "9cd83a44b630e984"
+        },
+        {
+          "zh": "b6093380766faa33",
+          "en": "1e35217537eff2f5"
+        }
+      ],
+      "1": [
+        {
+          "zh": "2762972fc9d0df68",
+          "en": "f77a0f289e55ddae"
+        }
+      ],
+      "2": [
+        {
+          "zh": "e372dc58db821ff2",
+          "en": "19a50c92e7a8c251"
+        }
+      ],
+      "3": [
+        {
+          "zh": "1a47d3a11af8e9f1",
+          "en": "1dab2749b729eb01"
+        }
+      ],
+      "4": [
+        {
+          "zh": "ccfcdc3d721e2c15",
+          "en": "f3041444d91bf33d"
+        }
+      ]
+    },
+    "chart-guidelines": {
+      "0": [
+        {
+          "zh": "2536653b7321fe9e",
+          "en": "fa4d2b103ff53117"
+        },
+        {
+          "zh": "7ed2fb16282a652a",
+          "en": "3ce9900215a85566"
+        }
+      ],
+      "1": [
+        {
+          "zh": "4fe33bbcfac54576",
+          "en": "abaef065345ee749"
+        }
+      ],
+      "2": [
+        {
+          "zh": "6134a9cb24ae17ac",
+          "en": "b11174938d2eaa70"
+        }
+      ],
+      "4": [
+        {
+          "zh": "2027a8efd5661211",
+          "en": "aa1b6b1ae3e121b9"
+        }
+      ]
+    },
+    "deploy-checklist": {
+      "0": [
+        {
+          "zh": "de752350a4d31c67",
+          "en": "690352a1ba3754b4"
+        },
+        {
+          "zh": "9e74f8dfe7a98f68",
+          "en": "29e226d748b13116"
+        }
+      ]
+    },
+    "incident-postmortem": {
+      "0": [
+        {
+          "zh": "fca4f1f84c3e8054",
+          "en": "1102306221e57a09"
+        },
+        {
+          "zh": "d788bc96d2894307",
+          "en": "78a1173237fca67e"
+        }
+      ]
+    },
+    "ui-component-checklist": {
+      "0": [
+        {
+          "zh": "be9b6ac8e1176c6c",
+          "en": "e7c037ffb8320afd"
+        },
+        {
+          "zh": "df12389eb5e31037",
+          "en": "16c5506dbf5d2ccf"
+        }
+      ]
+    },
+    "image-prompt-writing": {
+      "0": [
+        {
+          "zh": "0004dadf11396b84",
+          "en": "3968d59e2a33ed04"
+        },
+        {
+          "zh": "a5583509570d9025",
+          "en": "73fefa94a5eb7386"
+        }
+      ]
+    },
+    "image-brief": {
+      "0": [
+        {
+          "zh": "9206ef01a7eb6f53",
+          "en": "e68f1032667b9139"
+        },
+        {
+          "zh": "2575b629ba43fc77",
+          "en": "4800fd9ecccdc69e"
+        }
+      ],
+      "1": [
+        {
+          "zh": "48067e663231c5e9",
+          "en": "1d70cc690a08f75c"
+        }
+      ]
+    },
+    "meeting-minutes": {
+      "0": [
+        {
+          "zh": "a940efd43b683988",
+          "en": "00269a4f0669ac8b"
+        },
+        {
+          "zh": "50e98acc6fe06901",
+          "en": "9e0c7b969cdc67d4"
+        }
+      ]
+    },
+    "weekly-report": {
+      "0": [
+        {
+          "zh": "6216d4189c94a020",
+          "en": "9c7fb1c36aec298b"
+        },
+        {
+          "zh": "c917dcf69849f9d8",
+          "en": "6301565c67a8ca0a"
+        }
+      ]
+    },
+    "email-draft": {
+      "0": [
+        {
+          "zh": "43c3f173c244a74d",
+          "en": "95796ed404066be8"
+        },
+        {
+          "zh": "143f20a8991fac42",
+          "en": "3ab8e8047248f9a4"
+        }
+      ]
+    },
+    "prd-writing": {
+      "0": [
+        {
+          "zh": "1a27fb7ca709df39",
+          "en": "75efd1c20c6bbf90"
+        },
+        {
+          "zh": "f6454df234998764",
+          "en": "d530b8734cd4ed5a"
+        }
+      ]
+    },
+    "competitive-analysis": {
+      "0": [
+        {
+          "zh": "bc9e3ddad3b96f1a",
+          "en": "13ba4aa34dd6c1b0"
+        },
+        {
+          "zh": "d51f02ec957837f0",
+          "en": "d057ac872b6a69c7"
+        }
+      ],
+      "1": [
+        {
+          "zh": "b2c3a3eea6f9d6fb",
+          "en": "e8d84f7fec48efb0"
+        }
+      ],
+      "2": [
+        {
+          "zh": "e99c8ca0a0ea6d2f",
+          "en": "5bde15ff5797bdac"
+        }
+      ],
+      "3": [
+        {
+          "zh": "0c335628687dd1c2",
+          "en": "799975297621128c"
+        }
+      ],
+      "4": [
+        {
+          "zh": "504f659abd6dd62c",
+          "en": "5b2d8be0c2604a6d"
+        }
+      ]
+    },
+    "interview-synthesis": {
+      "0": [
+        {
+          "zh": "d98b2be26f8c451f",
+          "en": "8f912f754f71100b"
+        },
+        {
+          "zh": "e58b6cd684882ebf",
+          "en": "a8a9936e80af788b"
+        }
+      ]
+    },
+    "project-plan": {
+      "0": [
+        {
+          "zh": "de276a7991047d48",
+          "en": "a3761d1b32aaf009"
+        },
+        {
+          "zh": "5d8c036e04b5c5c1",
+          "en": "3965afb2bb7cba4c"
+        }
+      ]
+    },
+    "bug-report": {
+      "0": [
+        {
+          "zh": "bb6083abd84aa638",
+          "en": "9fea3a8a96a03035"
+        },
+        {
+          "zh": "fdec0b30065884a1",
+          "en": "954ce1df3b4e350c"
+        }
+      ]
+    },
+    "test-case-design": {
+      "0": [
+        {
+          "zh": "0dcc638bc1e560e7",
+          "en": "a598ea01759e8c19"
+        },
+        {
+          "zh": "71fc66596a9a47ad",
+          "en": "9df75efa49364a61"
+        }
+      ]
+    },
+    "job-description": {
+      "0": [
+        {
+          "zh": "707d88cde161fed5",
+          "en": "c375a1478ecc0979"
+        },
+        {
+          "zh": "12f4e29f007abe55",
+          "en": "61691d13fc2cdbd4"
+        }
+      ]
+    },
+    "interview-kit": {
+      "0": [
+        {
+          "zh": "592459dc2e36840c",
+          "en": "453be3add6c85a3d"
+        },
+        {
+          "zh": "ce996a567eefefc0",
+          "en": "9fcd3aa34d48d233"
+        }
+      ]
+    },
+    "research-report": {
+      "0": [
+        {
+          "zh": "d5591af8e947c0f7",
+          "en": "812bdc62176c416e"
+        },
+        {
+          "zh": "dab6d28d04019560",
+          "en": "8071404b3fd48a29"
+        }
+      ],
+      "1": [
+        {
+          "zh": "9b7e8e561c16ccdc",
+          "en": "ba1dba9e7246ee28"
+        }
+      ],
+      "2": [
+        {
+          "zh": "4189637dde620a05",
+          "en": "c5ff9d31b6778d39"
+        }
+      ],
+      "3": [
+        {
+          "zh": "58beae33f712c143",
+          "en": "193e5a4868d2fa9b"
+        }
+      ],
+      "4": [
+        {
+          "zh": "178a69410b61b5c4",
+          "en": "a3ff51cf291a3dc6"
+        }
+      ],
+      "5": [
+        {
+          "zh": "33be5373de42c37f",
+          "en": "4ed7bcbde8031635"
+        }
+      ],
+      "6": [
+        {
+          "zh": "3b1da6809ec95d75",
+          "en": "cedd449ff81cb475"
+        }
+      ],
+      "7": [
+        {
+          "zh": "648b2ef267dfa928",
+          "en": "8752aa132dc84aae"
+        }
+      ]
+    },
+    "source-notes": {
+      "0": [
+        {
+          "zh": "47aa080aa54113d6",
+          "en": "5d59a3374e084f06"
+        },
+        {
+          "zh": "db692559c072035d",
+          "en": "4ededb485c9897bd"
+        }
+      ],
+      "1": [
+        {
+          "zh": "3fd7ae921a308fda",
+          "en": "9451411a36cdf83d"
+        }
+      ],
+      "2": [
+        {
+          "zh": "bf9634804aae2176",
+          "en": "eee207c3dd34bfc8"
+        }
+      ],
+      "3": [
+        {
+          "zh": "c785206b16c58715",
+          "en": "a68d3a672f691436"
+        }
+      ],
+      "4": [
+        {
+          "zh": "359ab4567634dda3",
+          "en": "47fb2732bb6404c0"
+        }
+      ]
+    },
+    "platform-formats": {
+      "0": [
+        {
+          "zh": "92d8c1f2f418d7c0",
+          "en": "50ff9528ce11e695"
+        },
+        {
+          "zh": "58ed0cc9ab5b3d79",
+          "en": "68f657fcb0e6ab6c"
+        }
+      ]
+    },
+    "doc-structure": {
+      "0": [
+        {
+          "zh": "01f23e097a66e8dd",
+          "en": "cfbc4a5e64244fd0"
+        },
+        {
+          "zh": "e02974ad8332947a",
+          "en": "b1d02683d43cafd9"
+        }
+      ]
+    },
+    "api-doc": {
+      "0": [
+        {
+          "zh": "06e71ab9a7728769",
+          "en": "39417ff84ba1b9f3"
+        },
+        {
+          "zh": "d08aee9a9ae66d1b",
+          "en": "ca9ef02126b2af61"
+        }
+      ],
+      "1": [
+        {
+          "zh": "0f7c0c084bc8ec5d",
+          "en": "fe8625a38bfbe917"
+        }
+      ]
+    },
+    "glossary": {
+      "0": [
+        {
+          "zh": "36dd5c10a9f12ae9",
+          "en": "baf997f214d3bc61"
+        },
+        {
+          "zh": "aa21cda297b10a02",
+          "en": "0c64358b5d2c394c"
+        }
+      ]
+    },
+    "translation-qa": {
+      "0": [
+        {
+          "zh": "21bd141d9bb726fd",
+          "en": "48a5df55c46649f3"
+        },
+        {
+          "zh": "fbf9c3df31de1b4b",
+          "en": "cb3a5d36762bbf74"
+        }
+      ]
+    },
+    "design-review": {
+      "0": [
+        {
+          "zh": "9575f101fa45e4b3",
+          "en": "4814c11426c70c9b"
+        },
+        {
+          "zh": "214a73df65d55f8d",
+          "en": "7f6f37a55cffff1a"
+        }
+      ]
+    },
+    "interaction-spec": {
+      "0": [
+        {
+          "zh": "9a697fa7c52825b4",
+          "en": "666d125a3aba4ca2"
+        },
+        {
+          "zh": "5817e658bc9cc737",
+          "en": "21d6c6ba7d375f1b"
+        }
+      ]
+    },
+    "storyboard": {
+      "0": [
+        {
+          "zh": "fddb93209f9dfdef",
+          "en": "cf4318a460d25ee5"
+        },
+        {
+          "zh": "a51c57e453445e49",
+          "en": "7ee35dcb1e165d09"
+        }
+      ]
+    },
+    "prototype-preview": {
+      "0": [
+        {
+          "zh": "73adc05863521a6d",
+          "en": "e6a7e4eb1839b1ec"
+        },
+        {
+          "zh": "35a0edd74488937f",
+          "en": "93b0c5dbe98e2449"
+        }
+      ]
+    },
+    "development-workflow": {
+      "0": [
+        {
+          "zh": "99d3aa50eb6ba86e",
+          "en": "b824b7567d2a3a04"
+        },
+        {
+          "zh": "51fe7911f9420e16",
+          "en": "843898251e54332a"
+        },
+        {
+          "zh": "06ba652ef75f98d5",
+          "en": "57350209dad17456"
+        }
+      ],
+      "1": [
+        {
+          "zh": "f6e1ac5795a4bcf9",
+          "en": "8ceb464657d60695"
+        }
+      ]
+    },
+    "brief-data": {
+      "1": [
+        {
+          "zh": "492d9a4f57c9c9bb",
+          "en": "d249302fd756115a"
+        }
+      ],
+      "2": [
+        {
+          "zh": "598e00572b3abf53",
+          "en": "d3a7ae8296333851"
+        }
+      ],
+      "3": [
+        {
+          "zh": "58bb104bd7e4a866",
+          "en": "e0157d565f6984ad"
+        }
+      ]
+    },
+    "periodic-brief": {
+      "1": [
+        {
+          "zh": "66c311ce1076dab1",
+          "en": "3107c504e4ec750a"
+        }
+      ],
+      "2": [
+        {
+          "zh": "281218709890a72b",
+          "en": "77a6e6cf48dd91bd"
+        }
+      ],
+      "3": [
+        {
+          "zh": "14d405fc36c94e1d",
+          "en": "4946ac4ff388b2f0"
+        }
+      ],
+      "4": [
+        {
+          "zh": "1cf3f12deb896f3b",
+          "en": "ced7b1477f39608c"
+        },
+        {
+          "zh": "a0686f420ceb1100",
+          "en": "ad064ef2c8dcbbca"
+        }
+      ],
+      "5": [
+        {
+          "zh": "2f39400e3a5af1cb",
+          "en": "9862156f99061466"
+        }
+      ]
+    },
+    "content-pack": {
+      "1": [
+        {
+          "zh": "d4d86ae82c858d65",
+          "en": "a2b0b57dfaed241d"
+        }
+      ]
+    },
+    "fact-check": {
+      "1": [
+        {
+          "zh": "acf6ef771bc50bd7",
+          "en": "b3d0f337b723810c"
+        }
+      ],
+      "2": [
+        {
+          "zh": "e7755de7a4aa29f6",
+          "en": "65a1f847e124b3d3"
+        }
+      ],
+      "3": [
+        {
+          "zh": "78573270abec6929",
+          "en": "15423bd1612cd6bb"
+        }
+      ]
+    },
+    "interview-drill": {
+      "2": [
+        {
+          "zh": "e4d195b60205edcd",
+          "en": "d898ca8d2b4fa8a7"
+        }
+      ]
+    },
+    "study-plan": {
+      "1": [
+        {
+          "zh": "882c3d77ed1a7347",
+          "en": "dbb0af5e32ad08bf"
+        }
+      ]
+    },
+    "change-report": {
+      "1": [
+        {
+          "zh": "3dc181a82ccd8f61",
+          "en": "6a605c912294e7f1"
+        }
+      ]
+    },
+    "review-report": {
+      "1": [
+        {
+          "zh": "13faaf50d5cc7e9e",
+          "en": "7d8b5e48a59646ec"
+        }
+      ]
+    },
+    "test-report": {
+      "1": [
+        {
+          "zh": "d3b0b368214216e9",
+          "en": "45cb76b38a249d7e"
+        }
+      ]
+    },
+    "todo-followup": {
+      "1": [
+        {
+          "zh": "c2d9ed8f7a855a0f",
+          "en": "d031c817f3bc167d"
+        }
+      ]
+    },
+    "deck-storyline": {
+      "1": [
+        {
+          "zh": "b016e6e50e3cfccc",
+          "en": "fffc2da8cf292aa7"
+        }
+      ]
+    },
+    "deck-design-review": {
+      "1": [
+        {
+          "zh": "e7142fafb6bd898a",
+          "en": "d967dfd019d2a509"
+        }
+      ]
+    },
+    "deck-from-document": {
+      "1": [
+        {
+          "zh": "763091bb57839bc0",
+          "en": "e36b40dd7bbbabed"
+        }
+      ],
+      "2": [
+        {
+          "zh": "b93d22050ef03877",
+          "en": "ae62f0645da45bd2"
+        }
+      ]
+    },
+    "deck-polish": {
+      "1": [
+        {
+          "zh": "c2ad4bd5da6f5148",
+          "en": "ab1486db5af6ed1b"
+        }
+      ],
+      "3": [
+        {
+          "zh": "8d98ad921439eb8f",
+          "en": "409f03883e1815fb"
+        }
+      ]
+    },
+    "courseware-interaction": {
+      "1": [
+        {
+          "zh": "6abef8f1a066fc39",
+          "en": "886300d30045cc69"
+        }
+      ]
+    },
+    "deck-review": {
+      "1": [
+        {
+          "zh": "12901005390f9aca",
+          "en": "be31376f54dd1574"
+        }
+      ],
+      "2": [
+        {
+          "zh": "0a3d188df39cbbd2",
+          "en": "e1aea4c492020183"
+        }
+      ]
+    },
+    "plugin-building": {
+      "1": [
+        {
+          "zh": "9c27191275a84c37",
+          "en": "b0b67e3eeba48c9c"
+        },
+        {
+          "zh": "d026289cf65afad8",
+          "en": "743bcdd6487c021e"
+        }
+      ],
+      "4": [
+        {
+          "zh": "03db58a8803c899f",
+          "en": "91c469850443d2b4"
+        }
+      ],
+      "5": [
+        {
+          "zh": "edf1e9adc9a01a1f",
+          "en": "ad342514318b37b4"
+        }
+      ],
+      "6": [
+        {
+          "zh": "06f563e40293f72d",
+          "en": "c982eed158e46c24"
+        }
+      ]
+    },
+    "plugin-review": {
+      "1": [
+        {
+          "zh": "a895f3870138c44a",
+          "en": "88b78a87fb476243"
+        }
+      ],
+      "3": [
+        {
+          "zh": "a59f937df88aee41",
+          "en": "243eb92499cfce6f"
+        }
+      ],
+      "4": [
+        {
+          "zh": "2b71e98a7a122e32",
+          "en": "c35196ca76616bff"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,236 @@
+[
+  {
+    "id": "developer",
+    "name": {
+      "zh": "软件开发者",
+      "en": "Software developer"
+    },
+    "blurb": {
+      "zh": "写代码、修 bug、做项目",
+      "en": "Write code, fix bugs, ship projects"
+    },
+    "icon": "code",
+    "groups": ["dev-lite", "product-team"],
+    "roles": ["tech-writer"],
+    "quickStart": {
+      "zh": "帮我看看这个仓库，列出改进点",
+      "en": "Look through this repo and list improvements"
+    }
+  },
+  {
+    "id": "product-manager",
+    "name": {
+      "zh": "产品经理",
+      "en": "Product manager"
+    },
+    "blurb": {
+      "zh": "理需求、写文档、推进产品",
+      "en": "Shape requirements, write specs, move products forward"
+    },
+    "icon": "lightbulb",
+    "groups": ["product-team"],
+    "roles": ["researcher"],
+    "quickStart": {
+      "zh": "把这次用户访谈整理成需求",
+      "en": "Turn these user interviews into requirements"
+    }
+  },
+  {
+    "id": "designer",
+    "name": {
+      "zh": "设计师",
+      "en": "Designer"
+    },
+    "blurb": {
+      "zh": "界面、视觉和配图",
+      "en": "Interfaces, visuals and imagery"
+    },
+    "icon": "palette",
+    "groups": ["content-studio"],
+    "roles": ["ui-ux-designer"],
+    "quickStart": {
+      "zh": "给这个功能出三版界面方向",
+      "en": "Give me three UI directions for this feature"
+    }
+  },
+  {
+    "id": "content-creator",
+    "name": {
+      "zh": "内容创作者 / 新媒体",
+      "en": "Content creator / social media"
+    },
+    "blurb": {
+      "zh": "选题、写作、做内容",
+      "en": "Ideas, writing and content"
+    },
+    "icon": "pen",
+    "groups": ["content-studio"],
+    "roles": ["translator", "video-scriptwriter"],
+    "quickStart": {
+      "zh": "下周发什么？给我 5 个选题",
+      "en": "What should I post next week? Give me 5 topics"
+    }
+  },
+  {
+    "id": "marketing",
+    "name": {
+      "zh": "市场营销",
+      "en": "Marketing"
+    },
+    "blurb": {
+      "zh": "投放、增长和品牌",
+      "en": "Campaigns, growth and brand"
+    },
+    "icon": "megaphone",
+    "groups": ["content-studio"],
+    "roles": ["presentation-designer"],
+    "quickStart": {
+      "zh": "分析上个月的投放数据",
+      "en": "Analyse last month's campaign data"
+    }
+  },
+  {
+    "id": "data-research",
+    "name": {
+      "zh": "数据分析 / 研究",
+      "en": "Data analysis / research"
+    },
+    "blurb": {
+      "zh": "查资料、做分析、写报告",
+      "en": "Research, analyse and report"
+    },
+    "icon": "chart",
+    "groups": ["research-group"],
+    "roles": [],
+    "quickStart": {
+      "zh": "整理这个领域近一年的研究",
+      "en": "Summarise the past year of research in this field"
+    }
+  },
+  {
+    "id": "student",
+    "name": {
+      "zh": "学生",
+      "en": "Student"
+    },
+    "blurb": {
+      "zh": "学知识、做练习、备考",
+      "en": "Learn, practise and prepare for exams"
+    },
+    "icon": "book",
+    "groups": ["study-group"],
+    "roles": ["tutor"],
+    "quickStart": {
+      "zh": "帮我制定这学期的复习计划",
+      "en": "Make me a revision plan for this term"
+    }
+  },
+  {
+    "id": "teacher",
+    "name": {
+      "zh": "教师 / 培训",
+      "en": "Teacher / trainer"
+    },
+    "blurb": {
+      "zh": "备课、出题、做讲义",
+      "en": "Prepare lessons, exercises and handouts"
+    },
+    "icon": "school",
+    "groups": ["study-group"],
+    "roles": ["tutor", "personal-assistant", "presentation-designer"],
+    "quickStart": {
+      "zh": "把这章内容做成练习题",
+      "en": "Turn this chapter into exercises"
+    }
+  },
+  {
+    "id": "sales-ecommerce",
+    "name": {
+      "zh": "销售 / 电商",
+      "en": "Sales / e-commerce"
+    },
+    "blurb": {
+      "zh": "商品文案、店铺内容和客户跟进",
+      "en": "Product copy, store content and follow-ups"
+    },
+    "icon": "cart",
+    "groups": [],
+    "roles": ["copywriter", "social-media", "personal-assistant", "presentation-designer"],
+    "quickStart": {
+      "zh": "写这款商品的详情页",
+      "en": "Write the product page for this item"
+    }
+  },
+  {
+    "id": "admin-hr",
+    "name": {
+      "zh": "行政 / HR / 办公",
+      "en": "Admin / HR / office"
+    },
+    "blurb": {
+      "zh": "纪要、招聘和日常事务",
+      "en": "Meeting notes, hiring and daily admin"
+    },
+    "icon": "briefcase",
+    "groups": [],
+    "roles": ["personal-assistant", "recruiter", "project-manager"],
+    "quickStart": {
+      "zh": "整理本周会议纪要和待办",
+      "en": "Compile this week's meeting notes and to-dos"
+    }
+  },
+  {
+    "id": "ops-it",
+    "name": {
+      "zh": "运维 / IT",
+      "en": "Ops / IT"
+    },
+    "blurb": {
+      "zh": "部署、排障和文档",
+      "en": "Deployments, troubleshooting and docs"
+    },
+    "icon": "server",
+    "groups": [],
+    "roles": ["devops", "code-reviewer", "tech-writer"],
+    "quickStart": {
+      "zh": "检查这台服务器的部署脚本",
+      "en": "Check the deploy script for this server"
+    }
+  },
+  {
+    "id": "founder",
+    "name": {
+      "zh": "创业者 / 自由职业",
+      "en": "Founder / freelancer"
+    },
+    "blurb": {
+      "zh": "从想法到产品，一个人当一个团队",
+      "en": "From idea to product, a team of one"
+    },
+    "icon": "rocket",
+    "groups": ["product-team"],
+    "roles": ["personal-assistant"],
+    "quickStart": {
+      "zh": "帮我梳理这个想法的第一个版本",
+      "en": "Help me scope the first version of this idea"
+    }
+  },
+  {
+    "id": "consultant",
+    "name": {
+      "zh": "咨询顾问",
+      "en": "Consultant"
+    },
+    "blurb": {
+      "zh": "研究问题、分析数据、汇报建议",
+      "en": "Research problems, analyse data and present recommendations"
+    },
+    "icon": "briefcase",
+    "groups": ["research-group"],
+    "roles": ["presentation-designer"],
+    "quickStart": {
+      "zh": "把这份调研整理成给客户的汇报演示",
+      "en": "Turn this research into a client presentation"
+    }
+  }
+]
