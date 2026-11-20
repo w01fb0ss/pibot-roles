@@ -228,13 +228,13 @@
       "members": ["fullstack-dev", "qa-engineer", "code-reviewer"],
       "coordinator": "fullstack-dev",
       "announcement": {
-        "zh": "全栈开发负责协调：拆分计划、分派步骤、汇总结果；它自己也可以是一个步骤的负责人，需要它动手时就自己实现，不把每一步都转派出去。开发、测试、审查按依赖顺序交接，前一步有结果再派下一步；实现交改动说明，测试交测试报告，审查交审查报告，必须修改的问题修完后交付。新功能先确认计划，修 bug 和小改动直接做。同一文件夹同一时间只有一个成员写。写文件和命令按当前权限模式处理。",
-        "en": "The full-stack developer coordinates: splits the plan, assigns steps, collects results, and can own a step itself instead of delegating everything. Implementation, validation and review hand off in dependency order, each handing in a change, test or review report; required fixes are resolved before delivery. Confirm plans for new features; proceed with fixes and small edits. One member writes per folder; writes and commands follow the permission mode."
+        "zh": "全栈开发负责协调：拆分计划、分派步骤、汇总结果；需要动手时可以自己实现。任何代码改动完成后，必须交给独立的测试工程师测试，再交代码审查员审查；协调者不测试、不审查自己的改动。实现交改动说明，测试和审查交带「结论：通过／不通过」及不通过项的报告；不通过就由原实现者修复，再交回同一角色复验，必须修改的问题修完后交付。新功能先确认计划；修 bug 和小改动可以不先确认计划，但仍须测试和审查。同一文件夹同一时间只有一个成员写。写文件和命令按当前权限模式处理。",
+        "en": "Full-stack coordinates and may implement. Every code change goes to independent QA, then read-only review; the coordinator never tests or reviews its own changes. Deliver change notes and reports with Verdict: PASS/FAIL plus failures. Authors fix failures; the same verifier rechecks. Confirm new-feature plans. Fixes and small edits may skip prior plan confirmation, but still need QA and review. One writer per folder; current permissions apply."
       },
       "autoRoundLimit": 3,
       "template": {
         "id": "dev-lite",
-        "version": 3
+        "version": 4
       },
       "summary": {
         "zh": "全栈、测试、审查三人协作",

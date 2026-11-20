@@ -4733,6 +4733,28 @@
             }
           }
         }
+      ],
+      "7": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "always"
+          },
+          "norms": {
+            "zh": "c8a5ae78d4c81dea",
+            "en": "cebfd772b51efecf"
+          },
+          "skills": {
+            "plugin-building": {
+              "zh": "06f563e40293f72d",
+              "en": "c982eed158e46c24"
+            },
+            "plugin-review": {
+              "zh": "2b71e98a7a122e32",
+              "en": "c35196ca76616bff"
+            }
+          }
+        }
       ]
     }
   },
@@ -5255,6 +5277,32 @@
           },
           "autoRoundLimit": 4
         }
+      ],
+      "9": [
+        {
+          "name": {
+            "zh": "产品研发组",
+            "en": "Product Team"
+          },
+          "coordinator": "project-manager",
+          "members": [
+            "project-manager",
+            "product-manager",
+            "ui-ux-designer",
+            "fullstack-dev",
+            "qa-engineer",
+            "code-reviewer"
+          ],
+          "announcement": {
+            "zh": "f2e6c6ad09af06e0",
+            "en": "2b704e637bac7d5b"
+          },
+          "quickStarts": {
+            "zh": "0b992afd0cf44255",
+            "en": "3a002e720ff5e065"
+          },
+          "autoRoundLimit": 4
+        }
       ]
     },
     "research-group": {
@@ -5765,6 +5813,25 @@
           "announcement": {
             "zh": "594260c21d3886e8",
             "en": "9375333d258a1c7d"
+          },
+          "quickStarts": {
+            "zh": "c3835397fe2e2650",
+            "en": "91db36c04d1f8ed1"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "4": [
+        {
+          "name": {
+            "zh": "轻量开发组",
+            "en": "Lean Dev Team"
+          },
+          "coordinator": "fullstack-dev",
+          "members": ["fullstack-dev", "qa-engineer", "code-reviewer"],
+          "announcement": {
+            "zh": "ab8526bf35456b4d",
+            "en": "dd00ff4023363ba5"
           },
           "quickStarts": {
             "zh": "c3835397fe2e2650",

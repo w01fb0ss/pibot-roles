@@ -441,13 +441,13 @@
       ],
       "coordinator": "project-manager",
       "announcement": {
-        "zh": "项目经理负责规划、监督与最终汇总，不承担计划步骤；产品经理负责 PRD，交互设计师负责界面方案，全栈开发负责评估与实现，测试工程师复现问题并按验收标准验证，代码审查员只读审查。新功能先梳理用户场景和首版范围、确认计划，修 bug 和小改动直接做。实现后先验证再审查，必须修改的问题修完后交付。同一文件夹同一时间只有一个成员写。写文件和命令按当前权限模式处理。",
-        "en": "The project manager plans, supervises and wraps up without owning plan steps. The product manager owns the PRD, the UX designer the interactions, the full-stack developer builds, QA verifies against acceptance criteria, and the reviewer reviews read-only. Scope new features and confirm a plan; fix bugs and small edits directly. Validate, then review; resolve required fixes before delivery. One member writes in a folder at a time. Writes and commands follow the permission mode."
+        "zh": "项目经理负责规划、监督与最终汇总，不承担计划步骤；产品经理负责 PRD，交互设计师负责界面方案，全栈开发负责评估与实现，测试工程师按验收标准独立测试，代码审查员只读审查。任何代码改动完成后都交测试，再交审查；协调者不测试、不审查自己的改动，实现者不能自行验收自己的实现。测试和审查交带「结论：通过／不通过」及不通过项的报告；不通过由原实现者修复，再交回同一角色复验，必须修改的问题修完后交付。新功能先梳理用户场景和首版范围、确认计划；修 bug 和小改动可以不先确认计划，但仍须测试和审查。同一文件夹同一时间只有一个成员写。写文件和命令按当前权限模式处理。",
+        "en": "PM plans and wraps up, without owning steps; product owns PRD, UX designs, full-stack builds, QA tests, reviewer reviews read-only. Confirm new-feature plans. Fixes and small edits may skip prior confirmation, but every code change still needs independent QA then review. The coordinator never verifies its own changes. Reports need Verdict: PASS/FAIL and failures; authors fix and the same verifier rechecks. One writer per folder; current permissions apply."
       },
       "autoRoundLimit": 4,
       "template": {
         "id": "product-team",
-        "version": 8
+        "version": 9
       },
       "summary": {
         "zh": "从需求、设计到开发、测试和审查，一个小组做完",

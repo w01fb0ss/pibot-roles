@@ -37,7 +37,7 @@
       ],
       "role": {
         "id": "plugin-builder",
-        "version": 6,
+        "version": 7,
         "name": {
           "zh": "小匠",
           "en": "Plugin Builder"
