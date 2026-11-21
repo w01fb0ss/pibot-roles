@@ -4783,6 +4783,32 @@
             }
           }
         }
+      ],
+      "2": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "send_out": "ask"
+          },
+          "norms": {
+            "zh": "e3c9bdcec7ea3142",
+            "en": "e4286daef751ab60"
+          },
+          "skills": {
+            "watch-and-flag": {
+              "zh": "d8da810ca45e9e9b",
+              "en": "1e9b63e2d5f4f38f"
+            },
+            "todo-followup": {
+              "zh": "c2d9ed8f7a855a0f",
+              "en": "d031c817f3bc167d"
+            },
+            "email-draft": {
+              "zh": "143f20a8991fac42",
+              "en": "3ab8e8047248f9a4"
+            }
+          }
+        }
       ]
     }
   },
