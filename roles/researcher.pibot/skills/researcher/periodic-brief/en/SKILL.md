@@ -3,8 +3,8 @@ name: periodic-brief
 description: "Use for a weekly or monthly brief written from one folder of material and compared with last period."
 metadata:
   pibot-name: "Periodic brief"
-  pibot-version: "5"
-  pibot-verified: "2026-10-23 · R1-T7 真实资料两期 / two real periods"
+  pibot-version: "6"
+  pibot-verified: "2026-10-23 · 真实资料两期 / two real periods"
   pibot-params: "[{\"name\":\"topic\",\"description\":\"What the brief tracks\",\"default\":\"progress this period\"},{\"name\":\"audience\",\"description\":\"Who reads it\",\"default\":\"the owner\"}]"
   pibot-contract: "{\"inputs\":[{\"name\":\"material\",\"kind\":\"folder\",\"required\":true},{\"name\":\"previous\",\"kind\":\"previous\",\"required\":false},{\"name\":\"definitions\",\"kind\":\"text\",\"required\":false}],\"prechecks\":[{\"check\":\"nonEmpty\",\"input\":\"material\"}],\"deliverables\":[{\"id\":\"brief\",\"path\":\"brief.md\",\"kind\":\"md\",\"sections\":[\"Key findings\",\"What changed\",\"Versus last period\",\"Data notes\",\"Sources\",\"To confirm\"]}],\"acceptance\":[{\"id\":\"a1\",\"check\":\"exists\",\"deliverable\":\"brief\"},{\"id\":\"a2\",\"check\":\"sections\",\"deliverable\":\"brief\"},{\"id\":\"a3\",\"check\":\"citations\",\"deliverable\":\"brief\"},{\"id\":\"source-count\",\"check\":\"minCitations\",\"min\":1,\"deliverable\":\"brief\"}],\"stop\":[\"If the material or definitions contradict each other, ask instead of choosing\",\"Never invent numbers; anything you cannot compute goes under To confirm\"],\"maxFixRounds\":2,\"state\":{\"readPrevious\":true},\"approvals\":[\"send_out\"],\"budget\":{\"costUsd\":1},\"model\":{\"tier\":\"main\",\"thinking\":\"low\"}}"
 ---

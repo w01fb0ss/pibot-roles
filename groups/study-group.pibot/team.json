@@ -103,7 +103,7 @@
       ],
       "role": {
         "id": "researcher",
-        "version": 23,
+        "version": 24,
         "name": {
           "zh": "研究员",
           "en": "Researcher"
@@ -150,7 +150,7 @@
       "autoRoundLimit": 3,
       "template": {
         "id": "study-group",
-        "version": 9
+        "version": 10
       },
       "summary": {
         "zh": "讲清概念、整理笔记、出练习题",

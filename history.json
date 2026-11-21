@@ -1159,6 +1159,36 @@
             }
           }
         }
+      ],
+      "22": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "always"
+          },
+          "norms": {
+            "zh": "23c70b9a8ded928f",
+            "en": "c09c71cdbecbf03c"
+          },
+          "skills": {
+            "csv-profile": {
+              "zh": "75d40694e946c476",
+              "en": "c010613621ebd8e7"
+            },
+            "chart-guidelines": {
+              "zh": "2027a8efd5661211",
+              "en": "aa1b6b1ae3e121b9"
+            },
+            "analysis-report": {
+              "zh": "ccfcdc3d721e2c15",
+              "en": "f3041444d91bf33d"
+            },
+            "brief-data": {
+              "zh": "8a2c414a47c81d90",
+              "en": "9c20a104f51259d0"
+            }
+          }
+        }
       ]
     },
     "devops": {
@@ -3370,6 +3400,40 @@
             }
           }
         }
+      ],
+      "24": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "never"
+          },
+          "norms": {
+            "zh": "4ffe4acfc60d9a69",
+            "en": "5797d994cacc4166"
+          },
+          "skills": {
+            "research-report": {
+              "zh": "648b2ef267dfa928",
+              "en": "8752aa132dc84aae"
+            },
+            "competitive-analysis": {
+              "zh": "504f659abd6dd62c",
+              "en": "5b2d8be0c2604a6d"
+            },
+            "source-notes": {
+              "zh": "359ab4567634dda3",
+              "en": "47fb2732bb6404c0"
+            },
+            "periodic-brief": {
+              "zh": "415caea393627a7c",
+              "en": "5a4d03f9f668a785"
+            },
+            "fact-check": {
+              "zh": "78573270abec6929",
+              "en": "15423bd1612cd6bb"
+            }
+          }
+        }
       ]
     },
     "social-media": {
@@ -4927,6 +4991,25 @@
           },
           "autoRoundLimit": 3
         }
+      ],
+      "7": [
+        {
+          "name": {
+            "zh": "内容增长组",
+            "en": "Content & Growth"
+          },
+          "coordinator": "social-media",
+          "members": ["social-media", "copywriter", "image-designer", "data-analyst"],
+          "announcement": {
+            "zh": "59c49015f9e25e73",
+            "en": "c2ea1187e8edd9ed"
+          },
+          "quickStarts": {
+            "zh": "bd21104d0517c566",
+            "en": "0dc097860b57b8ac"
+          },
+          "autoRoundLimit": 3
+        }
       ]
     },
     "dev-squad": {
@@ -5642,6 +5725,25 @@
           },
           "autoRoundLimit": 3
         }
+      ],
+      "15": [
+        {
+          "name": {
+            "zh": "研究小组",
+            "en": "Research Group"
+          },
+          "coordinator": "researcher",
+          "members": ["researcher", "data-analyst", "presentation-designer"],
+          "announcement": {
+            "zh": "6285eeb58b016ff4",
+            "en": "0e30f6bc755248ca"
+          },
+          "quickStarts": {
+            "zh": "c9fdb2401e7b3f33",
+            "en": "7e7e33094946525e"
+          },
+          "autoRoundLimit": 3
+        }
       ]
     },
     "study-group": {
@@ -5798,6 +5900,25 @@
         }
       ],
       "9": [
+        {
+          "name": {
+            "zh": "学习小组",
+            "en": "Study Group"
+          },
+          "coordinator": "tutor",
+          "members": ["tutor", "researcher"],
+          "announcement": {
+            "zh": "d260400e2f19c100",
+            "en": "9f9d0ebc41d2c967"
+          },
+          "quickStarts": {
+            "zh": "b99b362fad85139a",
+            "en": "42eb5ac2854b8af7"
+          },
+          "autoRoundLimit": 3
+        }
+      ],
+      "10": [
         {
           "name": {
             "zh": "学习小组",
@@ -6537,6 +6658,12 @@
           "zh": "58bb104bd7e4a866",
           "en": "e0157d565f6984ad"
         }
+      ],
+      "4": [
+        {
+          "zh": "8a2c414a47c81d90",
+          "en": "9c20a104f51259d0"
+        }
       ]
     },
     "periodic-brief": {
@@ -6572,6 +6699,12 @@
         {
           "zh": "2f39400e3a5af1cb",
           "en": "9862156f99061466"
+        }
+      ],
+      "6": [
+        {
+          "zh": "415caea393627a7c",
+          "en": "5a4d03f9f668a785"
         }
       ]
     },

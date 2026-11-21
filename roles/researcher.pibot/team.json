@@ -49,7 +49,7 @@
       ],
       "role": {
         "id": "researcher",
-        "version": 23,
+        "version": 24,
         "name": {
           "zh": "研究员",
           "en": "Researcher"
