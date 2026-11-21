@@ -4819,6 +4819,28 @@
             }
           }
         }
+      ],
+      "8": [
+        {
+          "thinkingLevel": "low",
+          "permissionOverrides": {
+            "run_command": "always"
+          },
+          "norms": {
+            "zh": "c8a5ae78d4c81dea",
+            "en": "cebfd772b51efecf"
+          },
+          "skills": {
+            "plugin-building": {
+              "zh": "06f563e40293f72d",
+              "en": "c982eed158e46c24"
+            },
+            "plugin-review": {
+              "zh": "2b71e98a7a122e32",
+              "en": "c35196ca76616bff"
+            }
+          }
+        }
       ]
     },
     "proactive-assistant": {
